@@ -6,15 +6,17 @@ from model import *
 from utils import *
 
 train_path = "./input/train.csv"
+val_path = "./input/val.csv"
 test_path = "./input/test.csv"
-sample_sub = "./input/sample_submission.csv"
 
 train_data = pd.read_csv(train_path)
-val_data = pd.read_csv(test_path) 
-test_data = pd.read_csv(sample_sub) 
+val_data = pd.read_csv(val_path) 
+test_data = pd.read_csv(test_path)
 
 
 train_label_data = train_data['pressure']
+# 여기서 선택해주면 되겠네 greatup, up, middle, down, greatdown
+
 train_data = train_data.drop(['id','breath_id','pressure'], axis=1)
 # 여기 R하고 C 도 drop 해야함. R_5 R_20 R_50 이미있음.
 
