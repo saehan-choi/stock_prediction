@@ -12,7 +12,7 @@ from utils import *
 net = NeuralNet()
 net.load_state_dict(torch.load('./weights/batch288_lr0.0001_model_test.pt'))
 
-# batch40_lr1e-05_model_test 이게 제일 좋았음 validation set loss 0.06
+# batch40_lr1e-05_model_test 
 
 # for name, param in net.named_parameters(): 
 #     print(name, ':', param.requires_grad)
