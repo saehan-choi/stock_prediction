@@ -6,7 +6,7 @@ class NeuralNet(nn.Module):
     def __init__(self):
         super(NeuralNet, self).__init__()
         self.fc1 = nn.Linear(101, 512)
-        self.layer1 = self.make_layers(512, num_repeat=10)
+        self.layer1 = self.make_layers(512, num_repeat=15)
         self.fc5 = nn.Linear(512, 6)
 
         self.relu = nn.ReLU(inplace=True)

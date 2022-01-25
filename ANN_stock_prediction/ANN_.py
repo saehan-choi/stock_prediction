@@ -94,7 +94,8 @@ for l in batch_arr:
                     pred_val = val_data[start:end][:]
                     label_val = val_label_data[start:end]
                     outputs_val = net(pred_val).squeeze()
-                    val_loss = criterion(outputs_val, label_val)
+                    loss = criterion(outputs_val, label_val)
+                    # 이거 실수 주의하기
                     val_loss += val_loss.item()
 
 
