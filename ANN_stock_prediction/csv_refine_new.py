@@ -28,7 +28,7 @@ for coin in coins:
                 df.loc[i, f'low{n}'] = df.loc[i + n, 'low']
                 df.loc[i, f'close{n}'] = df.loc[i + n, 'close']
                 df.loc[i, f'volume{n}'] = df.loc[i + n, 'volume']
-                
+
     df['close'] = pd.to_numeric(df['close'])
 
     for i in df.index:

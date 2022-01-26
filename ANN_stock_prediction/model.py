@@ -6,7 +6,7 @@ class NeuralNet(nn.Module):
     def __init__(self):
         super(NeuralNet, self).__init__()
         self.fc1 = nn.Linear(101, 512)
-        self.layer1 = self.make_layers(512, num_repeat=15)
+        self.layer1 = self.make_layers(512, num_repeat=20)
         self.fc5 = nn.Linear(512, 6)
 
         self.relu = nn.ReLU(inplace=True)
@@ -24,5 +24,6 @@ class NeuralNet(nn.Module):
         for _ in range(num_repeat):
             layers.append(nn.Linear(value, value))
             layers.append(nn.ReLU(inplace=True))
+            layers.append(nn.Dropout(0.2))
 
         return nn.Sequential(*layers)

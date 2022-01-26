@@ -16,9 +16,9 @@ from utils import *
 # val_path = f"./input/{k}_validation.csv"
 # test_path = f"./input/{k}_test.csv"
 
-train_path = f"./input/train.csv"
-val_path = f"./input/validation.csv"
-test_path = f"./input/test.csv"
+train_path = f"./input/train_c.csv"
+val_path = f"./input/validation_c.csv"
+test_path = f"./input/test_c.csv"
 
 train_data = pd.read_csv(train_path)
 val_data = pd.read_csv(val_path) 
@@ -50,7 +50,7 @@ val_data = numpy_to_tensor(val_data)
 val_label_data = numpy_to_tensor(val_label_data)
 
 batch_arr = [20, 30, 40, 50, 60]
-lr_arr = [1e-3, 1e-4, 1e-5]
+lr_arr = [1e-3, 1e-4, 5e-4, 1e-5]
 
 
 for l in batch_arr:
@@ -61,7 +61,7 @@ for l in batch_arr:
         # optimizer = optim.Adam(net.parameters(),lr=1e-4)
         # 이거 5로바꿔볼게
         optimizer = optim.Adam(net.parameters(),lr=q)
-        num_epochs = 10
+        num_epochs = 20
         batch_size = l
 
         batch_num_train = len(train_data) // batch_size
@@ -96,9 +96,7 @@ for l in batch_arr:
                     outputs_val = net(pred_val).squeeze()
                     loss = criterion(outputs_val, label_val)
                     # 이거 실수 주의하기
-                    val_loss += val_loss.item()
-
-
+                    val_loss += loss.item()
 
             print(f'epochs : {epochs}')
             print(f'train_loss : {train_loss/batch_num_train}')

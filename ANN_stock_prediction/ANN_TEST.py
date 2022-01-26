@@ -10,14 +10,14 @@ from utils import *
 # device = torch.device('cuda')
 
 net = NeuralNet()
-net.load_state_dict(torch.load('./weights/batch288_lr0.0001_model_test.pt'))
+net.load_state_dict(torch.load('./weights/batch60_lr0.0005_model_test.pt'))
 
 # batch40_lr1e-05_model_test 
 
 # for name, param in net.named_parameters(): 
 #     print(name, ':', param.requires_grad)
 
-test_name = 'AION'
+test_name = 'CTC'
 test_path = f"./test/{test_name}_new.csv"
 
 

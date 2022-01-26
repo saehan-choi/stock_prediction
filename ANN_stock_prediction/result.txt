@@ -1,0 +1,3200 @@
+epochs : 0
+train_loss : 1.597452432035925
+val_loss : 1.6515136803350141
+batch_size:20 learning_rate0.001
+epochs : 1
+train_loss : 1.5773011372383847
+val_loss : 1.6439250121193547
+batch_size:20 learning_rate0.001
+epochs : 2
+train_loss : 1.5363633081732517
+val_loss : 1.6177837310298797
+batch_size:20 learning_rate0.001
+epochs : 3
+train_loss : 1.541705936787138
+val_loss : 1.8655608623258528
+batch_size:20 learning_rate0.001
+epochs : 4
+train_loss : 1.5452508548816362
+val_loss : 1.6309589743614197
+batch_size:20 learning_rate0.001
+epochs : 5
+train_loss : 1.5277399121527653
+val_loss : 1.6295760283547063
+batch_size:20 learning_rate0.001
+epochs : 6
+train_loss : 1.5413419032001876
+val_loss : 1.6170871075122588
+batch_size:20 learning_rate0.001
+epochs : 7
+train_loss : 1.5421796604931592
+val_loss : 1.7465237648256364
+batch_size:20 learning_rate0.001
+epochs : 8
+train_loss : 1.532868455605678
+val_loss : 1.6048747320328989
+batch_size:20 learning_rate0.001
+epochs : 9
+train_loss : 1.5404695087220088
+val_loss : 1.6406667309422647
+batch_size:20 learning_rate0.001
+epochs : 10
+train_loss : 1.583280964201665
+val_loss : 1.6796371119637643
+batch_size:20 learning_rate0.001
+epochs : 11
+train_loss : 1.5328624998905744
+val_loss : 1.637340089967174
+batch_size:20 learning_rate0.001
+epochs : 12
+train_loss : 1.5482459077797088
+val_loss : 1.6310373583147604
+batch_size:20 learning_rate0.001
+epochs : 13
+train_loss : 1.5392397022342301
+val_loss : 1.607505703164685
+batch_size:20 learning_rate0.001
+epochs : 14
+train_loss : 1.5318683599570833
+val_loss : 1.7515609447033174
+batch_size:20 learning_rate0.001
+epochs : 15
+train_loss : 1.536718012327217
+val_loss : 1.610415106819522
+batch_size:20 learning_rate0.001
+epochs : 16
+train_loss : 1.5258618645459057
+val_loss : 1.6003097613011636
+batch_size:20 learning_rate0.001
+epochs : 17
+train_loss : 1.5301851091156917
+val_loss : 1.6159716652285667
+batch_size:20 learning_rate0.001
+epochs : 18
+train_loss : 1.5275652285116128
+val_loss : 1.6132949148454974
+batch_size:20 learning_rate0.001
+epochs : 19
+train_loss : 1.522777007158059
+val_loss : 1.6043785147128566
+batch_size:20 learning_rate0.001
+epochs : 0
+train_loss : 1.609724830821216
+val_loss : 1.6739836815864808
+batch_size:20 learning_rate0.0001
+epochs : 1
+train_loss : 1.541731333352655
+val_loss : 1.721187912648724
+batch_size:20 learning_rate0.0001
+epochs : 2
+train_loss : 1.5537492744476198
+val_loss : 1.6549079225909324
+batch_size:20 learning_rate0.0001
+epochs : 3
+train_loss : 1.5361006544880658
+val_loss : 1.6449458743295362
+batch_size:20 learning_rate0.0001
+epochs : 4
+train_loss : 1.5248235131639882
+val_loss : 1.6708465689612972
+batch_size:20 learning_rate0.0001
+epochs : 5
+train_loss : 1.5243370722964464
+val_loss : 1.689267442111046
+batch_size:20 learning_rate0.0001
+epochs : 6
+train_loss : 1.5219497545306901
+val_loss : 1.6354040916888946
+batch_size:20 learning_rate0.0001
+epochs : 7
+train_loss : 1.5271913385486222
+val_loss : 1.6415436748535401
+batch_size:20 learning_rate0.0001
+epochs : 8
+train_loss : 1.522787114063582
+val_loss : 1.6089921353324768
+batch_size:20 learning_rate0.0001
+epochs : 9
+train_loss : 1.52578489856416
+val_loss : 1.5954494995455588
+batch_size:20 learning_rate0.0001
+epochs : 10
+train_loss : 1.523837082414513
+val_loss : 1.5999674681694276
+batch_size:20 learning_rate0.0001
+epochs : 11
+train_loss : 1.5174985570736614
+val_loss : 1.594361481166655
+batch_size:20 learning_rate0.0001
+epochs : 12
+train_loss : 1.520907264781663
+val_loss : 1.6043919488306968
+batch_size:20 learning_rate0.0001
+epochs : 13
+train_loss : 1.5133875221370225
+val_loss : 1.6018261428802245
+batch_size:20 learning_rate0.0001
+epochs : 14
+train_loss : 1.5099592940265913
+val_loss : 1.6003311295663156
+batch_size:20 learning_rate0.0001
+epochs : 15
+train_loss : 1.5108206298246802
+val_loss : 1.6131977256267303
+batch_size:20 learning_rate0.0001
+epochs : 16
+train_loss : 1.507151379290805
+val_loss : 1.6099247297933024
+batch_size:20 learning_rate0.0001
+epochs : 17
+train_loss : 1.5063166475865946
+val_loss : 1.6090119433018468
+batch_size:20 learning_rate0.0001
+epochs : 18
+train_loss : 1.5000735716040865
+val_loss : 1.5994341633012217
+batch_size:20 learning_rate0.0001
+epochs : 19
+train_loss : 1.4980381081303753
+val_loss : 1.6005703797263484
+batch_size:20 learning_rate0.0001
+epochs : 0
+train_loss : 1.5821750752954369
+val_loss : 1.6154395755260222
+batch_size:20 learning_rate0.0005
+epochs : 1
+train_loss : 1.532546732530176
+val_loss : 1.7664755813537105
+batch_size:20 learning_rate0.0005
+epochs : 2
+train_loss : 1.538430875278564
+val_loss : 1.6143827159558573
+batch_size:20 learning_rate0.0005
+epochs : 3
+train_loss : 1.5323575960687432
+val_loss : 1.6085802258983735
+batch_size:20 learning_rate0.0005
+epochs : 4
+train_loss : 1.5269353121400355
+val_loss : 1.6082250677770185
+batch_size:20 learning_rate0.0005
+epochs : 5
+train_loss : 1.5259553462385655
+val_loss : 1.6119564021787336
+batch_size:20 learning_rate0.0005
+epochs : 6
+train_loss : 1.5388763302350899
+val_loss : 1.5976449039674574
+batch_size:20 learning_rate0.0005
+epochs : 7
+train_loss : 1.5293105277882155
+val_loss : 1.616765276078255
+batch_size:20 learning_rate0.0005
+epochs : 8
+train_loss : 1.530078647146187
+val_loss : 1.6093910990222808
+batch_size:20 learning_rate0.0005
+epochs : 9
+train_loss : 1.531384912382559
+val_loss : 1.6027729568942901
+batch_size:20 learning_rate0.0005
+epochs : 10
+train_loss : 1.5268214855536046
+val_loss : 1.611406897344897
+batch_size:20 learning_rate0.0005
+epochs : 11
+train_loss : 1.5268888577996973
+val_loss : 1.6077146068696053
+batch_size:20 learning_rate0.0005
+epochs : 12
+train_loss : 1.5232834880095554
+val_loss : 1.5935129504049979
+batch_size:20 learning_rate0.0005
+epochs : 13
+train_loss : 1.5227529418420982
+val_loss : 1.6083974434483437
+batch_size:20 learning_rate0.0005
+epochs : 14
+train_loss : 1.5216890483263479
+val_loss : 1.6154304877404244
+batch_size:20 learning_rate0.0005
+epochs : 15
+train_loss : 1.5409779793237786
+val_loss : 1.611942268187
+batch_size:20 learning_rate0.0005
+epochs : 16
+train_loss : 1.5215129237250977
+val_loss : 1.6192079820940573
+batch_size:20 learning_rate0.0005
+epochs : 17
+train_loss : 1.5273906206229768
+val_loss : 1.5993356310552167
+batch_size:20 learning_rate0.0005
+epochs : 18
+train_loss : 1.526218624466444
+val_loss : 1.6016542171278307
+batch_size:20 learning_rate0.0005
+epochs : 19
+train_loss : 1.5255008494236555
+val_loss : 1.6049153506755829
+batch_size:20 learning_rate0.0005
+epochs : 0
+train_loss : 1.6634714738781233
+val_loss : 1.6652215469268061
+batch_size:20 learning_rate1e-05
+epochs : 1
+train_loss : 1.6159248860233808
+val_loss : 1.6423948753264643
+batch_size:20 learning_rate1e-05
+epochs : 2
+train_loss : 1.5983917352212853
+val_loss : 1.6384612408376509
+batch_size:20 learning_rate1e-05
+epochs : 3
+train_loss : 1.5899761917581596
+val_loss : 1.6457375480282692
+batch_size:20 learning_rate1e-05
+epochs : 4
+train_loss : 1.5795568935424684
+val_loss : 1.6484335016819738
+batch_size:20 learning_rate1e-05
+epochs : 5
+train_loss : 1.5704336719683918
+val_loss : 1.65052903275336
+batch_size:20 learning_rate1e-05
+epochs : 6
+train_loss : 1.5634328896305951
+val_loss : 1.6528248796539922
+batch_size:20 learning_rate1e-05
+epochs : 7
+train_loss : 1.5603783933289972
+val_loss : 1.6523473301241476
+batch_size:20 learning_rate1e-05
+epochs : 8
+train_loss : 1.5519718347317668
+val_loss : 1.6561658824643781
+batch_size:20 learning_rate1e-05
+epochs : 9
+train_loss : 1.5473495728941078
+val_loss : 1.6335473810472796
+batch_size:20 learning_rate1e-05
+epochs : 10
+train_loss : 1.5404999645582709
+val_loss : 1.630832205857
+batch_size:20 learning_rate1e-05
+epochs : 11
+train_loss : 1.5342383705287341
+val_loss : 1.6231983630887923
+batch_size:20 learning_rate1e-05
+epochs : 12
+train_loss : 1.530136405946724
+val_loss : 1.6316734523542467
+batch_size:20 learning_rate1e-05
+epochs : 13
+train_loss : 1.5253998805802182
+val_loss : 1.6253987569962778
+batch_size:20 learning_rate1e-05
+epochs : 14
+train_loss : 1.522612814646793
+val_loss : 1.6175833748232933
+batch_size:20 learning_rate1e-05
+epochs : 15
+train_loss : 1.5196165072015557
+val_loss : 1.6248604453379107
+batch_size:20 learning_rate1e-05
+epochs : 16
+train_loss : 1.5164552219360472
+val_loss : 1.6257900393778277
+batch_size:20 learning_rate1e-05
+epochs : 17
+train_loss : 1.513429142089479
+val_loss : 1.6344417247080034
+batch_size:20 learning_rate1e-05
+epochs : 18
+train_loss : 1.5117050003245531
+val_loss : 1.621202552510846
+batch_size:20 learning_rate1e-05
+epochs : 19
+train_loss : 1.5081770410575714
+val_loss : 1.6190844274336291
+batch_size:20 learning_rate1e-05
+epochs : 0
+train_loss : 1.5708806806535862
+val_loss : 1.6139691602892992
+batch_size:30 learning_rate0.001
+epochs : 1
+train_loss : 1.5482792829399679
+val_loss : 1.6027835563915531
+batch_size:30 learning_rate0.001
+epochs : 2
+train_loss : 1.53936143633145
+val_loss : 1.6038678332072933
+batch_size:30 learning_rate0.001
+epochs : 3
+train_loss : 1.542509503862751
+val_loss : 1.623374895351689
+batch_size:30 learning_rate0.001
+epochs : 4
+train_loss : 1.555612801793796
+val_loss : 1.6295068961818044
+batch_size:30 learning_rate0.001
+epochs : 5
+train_loss : 1.5415666637135976
+val_loss : 1.7181559001527182
+batch_size:30 learning_rate0.001
+epochs : 6
+train_loss : 1.5336059755353786
+val_loss : 1.619950739348807
+batch_size:30 learning_rate0.001
+epochs : 7
+train_loss : 1.5293586983609555
+val_loss : 1.5999899942700455
+batch_size:30 learning_rate0.001
+epochs : 8
+train_loss : 1.5274479727246868
+val_loss : 1.5918149046781587
+batch_size:30 learning_rate0.001
+epochs : 9
+train_loss : 1.5272997165793802
+val_loss : 1.5934497684967228
+batch_size:30 learning_rate0.001
+epochs : 10
+train_loss : 1.5270286076104462
+val_loss : 1.5905428121729595
+batch_size:30 learning_rate0.001
+epochs : 11
+train_loss : 1.5250674895386198
+val_loss : 1.587343502335432
+batch_size:30 learning_rate0.001
+epochs : 12
+train_loss : 1.5324326796318168
+val_loss : 1.626061704100632
+batch_size:30 learning_rate0.001
+epochs : 13
+train_loss : 1.530651924859232
+val_loss : 1.6061471322687662
+batch_size:30 learning_rate0.001
+epochs : 14
+train_loss : 1.530051085486341
+val_loss : 1.594047576915927
+batch_size:30 learning_rate0.001
+epochs : 15
+train_loss : 1.5251311344886893
+val_loss : 1.6017924779798927
+batch_size:30 learning_rate0.001
+epochs : 16
+train_loss : 1.5272187361076697
+val_loss : 1.613592588320011
+batch_size:30 learning_rate0.001
+epochs : 17
+train_loss : 1.523193563632111
+val_loss : 1.5884631130753495
+batch_size:30 learning_rate0.001
+epochs : 18
+train_loss : 1.5211221150497891
+val_loss : 1.5922236689707128
+batch_size:30 learning_rate0.001
+epochs : 19
+train_loss : 1.5217892725076247
+val_loss : 1.6011668254689473
+batch_size:30 learning_rate0.001
+epochs : 0
+train_loss : 1.6202182915673327
+val_loss : 1.6673065249512835
+batch_size:30 learning_rate0.0001
+epochs : 1
+train_loss : 1.5403306217335944
+val_loss : 1.6434207907537135
+batch_size:30 learning_rate0.0001
+epochs : 2
+train_loss : 1.5265607026085926
+val_loss : 1.6305722870477817
+batch_size:30 learning_rate0.0001
+epochs : 3
+train_loss : 1.5251132943736974
+val_loss : 1.6093005915967429
+batch_size:30 learning_rate0.0001
+epochs : 4
+train_loss : 1.5222165929737377
+val_loss : 1.6067846664568273
+batch_size:30 learning_rate0.0001
+epochs : 5
+train_loss : 1.5224555463933234
+val_loss : 1.6129979113253152
+batch_size:30 learning_rate0.0001
+epochs : 6
+train_loss : 1.5204372630190492
+val_loss : 1.6041276527614128
+batch_size:30 learning_rate0.0001
+epochs : 7
+train_loss : 1.5220606743399776
+val_loss : 1.596465411709576
+batch_size:30 learning_rate0.0001
+epochs : 8
+train_loss : 1.5200629849932088
+val_loss : 1.5959348896654642
+batch_size:30 learning_rate0.0001
+epochs : 9
+train_loss : 1.5203602570206372
+val_loss : 1.5943871213168632
+batch_size:30 learning_rate0.0001
+epochs : 10
+train_loss : 1.5201465788172253
+val_loss : 1.619574868097538
+batch_size:30 learning_rate0.0001
+epochs : 11
+train_loss : 1.524680506649302
+val_loss : 1.6092271935649034
+batch_size:30 learning_rate0.0001
+epochs : 12
+train_loss : 1.521989393234253
+val_loss : 1.598529437693154
+batch_size:30 learning_rate0.0001
+epochs : 13
+train_loss : 1.5177020802426695
+val_loss : 1.6039257907285922
+batch_size:30 learning_rate0.0001
+epochs : 14
+train_loss : 1.516413578346594
+val_loss : 1.6191269435533664
+batch_size:30 learning_rate0.0001
+epochs : 15
+train_loss : 1.5179296198175913
+val_loss : 1.5985024949399436
+batch_size:30 learning_rate0.0001
+epochs : 16
+train_loss : 1.513026309725064
+val_loss : 1.6051815690063849
+batch_size:30 learning_rate0.0001
+epochs : 17
+train_loss : 1.5156004813180042
+val_loss : 1.595924932782243
+batch_size:30 learning_rate0.0001
+epochs : 18
+train_loss : 1.5136116241341206
+val_loss : 1.5946910046949618
+batch_size:30 learning_rate0.0001
+epochs : 19
+train_loss : 1.5124992406190332
+val_loss : 1.5987255849489352
+batch_size:30 learning_rate0.0001
+epochs : 0
+train_loss : 1.5754221186709048
+val_loss : 1.6112646373306834
+batch_size:30 learning_rate0.0005
+epochs : 1
+train_loss : 1.5385211047841543
+val_loss : 1.606496696065112
+batch_size:30 learning_rate0.0005
+epochs : 2
+train_loss : 1.5332917476767924
+val_loss : 1.6043033788843852
+batch_size:30 learning_rate0.0005
+epochs : 3
+train_loss : 1.533945894241333
+val_loss : 1.5965350342959892
+batch_size:30 learning_rate0.0005
+epochs : 4
+train_loss : 1.5307959777205737
+val_loss : 1.6211768592276223
+batch_size:30 learning_rate0.0005
+epochs : 5
+train_loss : 1.5305486458451
+val_loss : 1.6032076710607948
+batch_size:30 learning_rate0.0005
+epochs : 6
+train_loss : 1.5288272469791013
+val_loss : 1.599877316777299
+batch_size:30 learning_rate0.0005
+epochs : 7
+train_loss : 1.5242826070358504
+val_loss : 1.611848459011171
+batch_size:30 learning_rate0.0005
+epochs : 8
+train_loss : 1.5229702348139749
+val_loss : 1.6025013036844207
+batch_size:30 learning_rate0.0005
+epochs : 9
+train_loss : 1.526389413093453
+val_loss : 1.6041927657476285
+batch_size:30 learning_rate0.0005
+epochs : 10
+train_loss : 1.5245907381399353
+val_loss : 1.6144709776087505
+batch_size:30 learning_rate0.0005
+epochs : 11
+train_loss : 1.5237333457861373
+val_loss : 1.6029871716731932
+batch_size:30 learning_rate0.0005
+epochs : 12
+train_loss : 1.5230651503178612
+val_loss : 1.5954062226341992
+batch_size:30 learning_rate0.0005
+epochs : 13
+train_loss : 1.5211507270585245
+val_loss : 1.6096487815787153
+batch_size:30 learning_rate0.0005
+epochs : 14
+train_loss : 1.5224092447935644
+val_loss : 1.583827696195463
+batch_size:30 learning_rate0.0005
+epochs : 15
+train_loss : 1.5209508105890075
+val_loss : 1.6022509932518005
+batch_size:30 learning_rate0.0005
+epochs : 16
+train_loss : 1.526667421967236
+val_loss : 1.6028553232914065
+batch_size:30 learning_rate0.0005
+epochs : 17
+train_loss : 1.5211723594523188
+val_loss : 1.6190928351588365
+batch_size:30 learning_rate0.0005
+epochs : 18
+train_loss : 1.5228256343015985
+val_loss : 1.6038302691971384
+batch_size:30 learning_rate0.0005
+epochs : 19
+train_loss : 1.5214194981019888
+val_loss : 1.6037345310536826
+batch_size:30 learning_rate0.0005
+epochs : 0
+train_loss : 1.6735660453340901
+val_loss : 1.6485184620066387
+batch_size:30 learning_rate1e-05
+epochs : 1
+train_loss : 1.6223361392519366
+val_loss : 1.6222745558110678
+batch_size:30 learning_rate1e-05
+epochs : 2
+train_loss : 1.610581982313697
+val_loss : 1.6292260521795692
+batch_size:30 learning_rate1e-05
+epochs : 3
+train_loss : 1.6009994346704055
+val_loss : 1.6213767150553262
+batch_size:30 learning_rate1e-05
+epochs : 4
+train_loss : 1.5906115115578494
+val_loss : 1.630053691747712
+batch_size:30 learning_rate1e-05
+epochs : 5
+train_loss : 1.5808971081207048
+val_loss : 1.6347321737103346
+batch_size:30 learning_rate1e-05
+epochs : 6
+train_loss : 1.5698402529332176
+val_loss : 1.6212020356480668
+batch_size:30 learning_rate1e-05
+epochs : 7
+train_loss : 1.5636715116785533
+val_loss : 1.6352865405199004
+batch_size:30 learning_rate1e-05
+epochs : 8
+train_loss : 1.5555612087249755
+val_loss : 1.6277601544449969
+batch_size:30 learning_rate1e-05
+epochs : 9
+train_loss : 1.5507268165474508
+val_loss : 1.6349893910128896
+batch_size:30 learning_rate1e-05
+epochs : 10
+train_loss : 1.5433072808963149
+val_loss : 1.622039463461899
+batch_size:30 learning_rate1e-05
+epochs : 11
+train_loss : 1.5376861789333287
+val_loss : 1.6064659851353342
+batch_size:30 learning_rate1e-05
+epochs : 12
+train_loss : 1.5324664044736036
+val_loss : 1.6074330370600631
+batch_size:30 learning_rate1e-05
+epochs : 13
+train_loss : 1.527228300962875
+val_loss : 1.6100327547003583
+batch_size:30 learning_rate1e-05
+epochs : 14
+train_loss : 1.5238435190115402
+val_loss : 1.6005037834004658
+batch_size:30 learning_rate1e-05
+epochs : 15
+train_loss : 1.5227929862577523
+val_loss : 1.602698629949151
+batch_size:30 learning_rate1e-05
+epochs : 16
+train_loss : 1.519017992090823
+val_loss : 1.6014197948502331
+batch_size:30 learning_rate1e-05
+epochs : 17
+train_loss : 1.5196578356757093
+val_loss : 1.5958329686304418
+batch_size:30 learning_rate1e-05
+epochs : 18
+train_loss : 1.5187232060218925
+val_loss : 1.606435437028001
+batch_size:30 learning_rate1e-05
+epochs : 19
+train_loss : 1.5174616585916547
+val_loss : 1.6032173531811411
+batch_size:30 learning_rate1e-05
+epochs : 0
+train_loss : 1.6072855812619882
+val_loss : 1.648586553912009
+batch_size:40 learning_rate0.001
+epochs : 1
+train_loss : 1.5410780351000477
+val_loss : 1.6127188244173605
+batch_size:40 learning_rate0.001
+epochs : 2
+train_loss : 1.5352224087810136
+val_loss : 1.5968971040941053
+batch_size:40 learning_rate0.001
+epochs : 3
+train_loss : 1.5360933703730306
+val_loss : 1.5957710839086963
+batch_size:40 learning_rate0.001
+epochs : 4
+train_loss : 1.5320511951864477
+val_loss : 1.6159723977888785
+batch_size:40 learning_rate0.001
+epochs : 5
+train_loss : 1.530298347492142
+val_loss : 1.6025005559767447
+batch_size:40 learning_rate0.001
+epochs : 6
+train_loss : 1.5309871387671665
+val_loss : 1.6254286842961465
+batch_size:40 learning_rate0.001
+epochs : 7
+train_loss : 1.527542589195221
+val_loss : 1.6064895122281966
+batch_size:40 learning_rate0.001
+epochs : 8
+train_loss : 1.531289758910221
+val_loss : 1.6188986782104737
+batch_size:40 learning_rate0.001
+epochs : 9
+train_loss : 1.5368811813483676
+val_loss : 1.725230078543386
+batch_size:40 learning_rate0.001
+epochs : 10
+train_loss : 1.572231177314819
+val_loss : 1.9854571473213933
+batch_size:40 learning_rate0.001
+epochs : 11
+train_loss : 1.5440423336636973
+val_loss : 1.6006305063924482
+batch_size:40 learning_rate0.001
+epochs : 12
+train_loss : 1.533082361240311
+val_loss : 1.6046165747027243
+batch_size:40 learning_rate0.001
+epochs : 13
+train_loss : 1.5492013369898396
+val_loss : 1.6482757945214548
+batch_size:40 learning_rate0.001
+epochs : 14
+train_loss : 1.5340170195378156
+val_loss : 1.6065871119499207
+batch_size:40 learning_rate0.001
+epochs : 15
+train_loss : 1.5296116810870835
+val_loss : 1.6178042946323272
+batch_size:40 learning_rate0.001
+epochs : 16
+train_loss : 1.5338010194292107
+val_loss : 1.6120673437272348
+batch_size:40 learning_rate0.001
+epochs : 17
+train_loss : 1.5246225932679802
+val_loss : 1.6167449951171875
+batch_size:40 learning_rate0.001
+epochs : 18
+train_loss : 1.5254263388683122
+val_loss : 1.617088460153149
+batch_size:40 learning_rate0.001
+epochs : 19
+train_loss : 1.529625870317102
+val_loss : 1.5955298831385951
+batch_size:40 learning_rate0.001
+epochs : 0
+train_loss : 1.6255206824298873
+val_loss : 1.7000558914676789
+batch_size:40 learning_rate0.0001
+epochs : 1
+train_loss : 1.5524922191384305
+val_loss : 1.660528842479952
+batch_size:40 learning_rate0.0001
+epochs : 2
+train_loss : 1.5280656653096476
+val_loss : 1.6047483067358694
+batch_size:40 learning_rate0.0001
+epochs : 3
+train_loss : 1.5248884309335533
+val_loss : 1.6372448936585458
+batch_size:40 learning_rate0.0001
+epochs : 4
+train_loss : 1.52421172444089
+val_loss : 1.5905481442328422
+batch_size:40 learning_rate0.0001
+epochs : 5
+train_loss : 1.5225428998232837
+val_loss : 1.584720863449958
+batch_size:40 learning_rate0.0001
+epochs : 6
+train_loss : 1.5240375041011796
+val_loss : 1.6205497653253618
+batch_size:40 learning_rate0.0001
+epochs : 7
+train_loss : 1.5223522746705438
+val_loss : 1.5932994619492562
+batch_size:40 learning_rate0.0001
+epochs : 8
+train_loss : 1.520973856230656
+val_loss : 1.6058863920550193
+batch_size:40 learning_rate0.0001
+epochs : 9
+train_loss : 1.5224455927472667
+val_loss : 1.5969922581026632
+batch_size:40 learning_rate0.0001
+epochs : 10
+train_loss : 1.5185248329344974
+val_loss : 1.5951929476953322
+batch_size:40 learning_rate0.0001
+epochs : 11
+train_loss : 1.5155695064134331
+val_loss : 1.5908565425103711
+batch_size:40 learning_rate0.0001
+epochs : 12
+train_loss : 1.5185949702661825
+val_loss : 1.5871903281058035
+batch_size:40 learning_rate0.0001
+epochs : 13
+train_loss : 1.515744826708182
+val_loss : 1.591962008706985
+batch_size:40 learning_rate0.0001
+epochs : 14
+train_loss : 1.5153545967611184
+val_loss : 1.6179959524062373
+batch_size:40 learning_rate0.0001
+epochs : 15
+train_loss : 1.5173375521048131
+val_loss : 1.596341613800295
+batch_size:40 learning_rate0.0001
+epochs : 16
+train_loss : 1.513716238428397
+val_loss : 1.5970455081232133
+batch_size:40 learning_rate0.0001
+epochs : 17
+train_loss : 1.5163924603823171
+val_loss : 1.5940573061666181
+batch_size:40 learning_rate0.0001
+epochs : 18
+train_loss : 1.5132872141689893
+val_loss : 1.5896869897842407
+batch_size:40 learning_rate0.0001
+epochs : 19
+train_loss : 1.5106895677596925
+val_loss : 1.601357356194527
+batch_size:40 learning_rate0.0001
+epochs : 0
+train_loss : 1.594636888143076
+val_loss : 1.624023191390499
+batch_size:40 learning_rate0.0005
+epochs : 1
+train_loss : 1.533034452404159
+val_loss : 1.6150167161418545
+batch_size:40 learning_rate0.0005
+epochs : 2
+train_loss : 1.526796796882295
+val_loss : 1.6059564890400055
+batch_size:40 learning_rate0.0005
+epochs : 3
+train_loss : 1.5351114686266834
+val_loss : 1.6012455840264597
+batch_size:40 learning_rate0.0005
+epochs : 4
+train_loss : 1.5322044916836863
+val_loss : 1.6231515272971122
+batch_size:40 learning_rate0.0005
+epochs : 5
+train_loss : 1.5266574858669266
+val_loss : 1.605216497375119
+batch_size:40 learning_rate0.0005
+epochs : 6
+train_loss : 1.5249090004727186
+val_loss : 1.5979588185587237
+batch_size:40 learning_rate0.0005
+epochs : 7
+train_loss : 1.5344954738578949
+val_loss : 1.6096277583029963
+batch_size:40 learning_rate0.0005
+epochs : 8
+train_loss : 1.5322235860672604
+val_loss : 1.6054180033745304
+batch_size:40 learning_rate0.0005
+epochs : 9
+train_loss : 1.534514915895652
+val_loss : 1.607951541100779
+batch_size:40 learning_rate0.0005
+epochs : 10
+train_loss : 1.5251351723158026
+val_loss : 1.6258119517757046
+batch_size:40 learning_rate0.0005
+epochs : 11
+train_loss : 1.5581447114032578
+val_loss : 1.6110594272613525
+batch_size:40 learning_rate0.0005
+epochs : 12
+train_loss : 1.5303648615263372
+val_loss : 1.6131401408103205
+batch_size:40 learning_rate0.0005
+epochs : 13
+train_loss : 1.5320621709899598
+val_loss : 1.6098537156658788
+batch_size:40 learning_rate0.0005
+epochs : 14
+train_loss : 1.5226459351193857
+val_loss : 1.5993434921387704
+batch_size:40 learning_rate0.0005
+epochs : 15
+train_loss : 1.5245089915644126
+val_loss : 1.6008546063976903
+batch_size:40 learning_rate0.0005
+epochs : 16
+train_loss : 1.5258936302595405
+val_loss : 1.5956422359712663
+batch_size:40 learning_rate0.0005
+epochs : 17
+train_loss : 1.5211948113612446
+val_loss : 1.6134477526910844
+batch_size:40 learning_rate0.0005
+epochs : 18
+train_loss : 1.5198705125140004
+val_loss : 1.6045248258498408
+batch_size:40 learning_rate0.0005
+epochs : 19
+train_loss : 1.5195934834233318
+val_loss : 1.6057200643324083
+batch_size:40 learning_rate0.0005
+epochs : 0
+train_loss : 1.7000396284924086
+val_loss : 1.6449543679914167
+batch_size:40 learning_rate1e-05
+epochs : 1
+train_loss : 1.632333034538178
+val_loss : 1.6482148478108067
+batch_size:40 learning_rate1e-05
+epochs : 2
+train_loss : 1.6244874228519273
+val_loss : 1.6419440661707232
+batch_size:40 learning_rate1e-05
+epochs : 3
+train_loss : 1.6125807842885356
+val_loss : 1.6349763024237849
+batch_size:40 learning_rate1e-05
+epochs : 4
+train_loss : 1.6015589108980035
+val_loss : 1.6323295754771079
+batch_size:40 learning_rate1e-05
+epochs : 5
+train_loss : 1.593290167025836
+val_loss : 1.634957871129436
+batch_size:40 learning_rate1e-05
+epochs : 6
+train_loss : 1.5828289762436156
+val_loss : 1.6419695538859214
+batch_size:40 learning_rate1e-05
+epochs : 7
+train_loss : 1.5769791142399092
+val_loss : 1.6413615884319428
+batch_size:40 learning_rate1e-05
+epochs : 8
+train_loss : 1.56801144915273
+val_loss : 1.6405597290685099
+batch_size:40 learning_rate1e-05
+epochs : 9
+train_loss : 1.5616658873767018
+val_loss : 1.6349382631240352
+batch_size:40 learning_rate1e-05
+epochs : 10
+train_loss : 1.5561884342436771
+val_loss : 1.628554267268027
+batch_size:40 learning_rate1e-05
+epochs : 11
+train_loss : 1.5500565301849547
+val_loss : 1.6305481618450535
+batch_size:40 learning_rate1e-05
+epochs : 12
+train_loss : 1.547436297652256
+val_loss : 1.6234766071842563
+batch_size:40 learning_rate1e-05
+epochs : 13
+train_loss : 1.5403240368185764
+val_loss : 1.6153656532687526
+batch_size:40 learning_rate1e-05
+epochs : 14
+train_loss : 1.5353547866600918
+val_loss : 1.6198163436305137
+batch_size:40 learning_rate1e-05
+epochs : 15
+train_loss : 1.5299481975129876
+val_loss : 1.6074105789584499
+batch_size:40 learning_rate1e-05
+epochs : 16
+train_loss : 1.5266162437271786
+val_loss : 1.6102847976069297
+batch_size:40 learning_rate1e-05
+epochs : 17
+train_loss : 1.524360849562869
+val_loss : 1.607791373806615
+batch_size:40 learning_rate1e-05
+epochs : 18
+train_loss : 1.5216603340855632
+val_loss : 1.5981214219524014
+batch_size:40 learning_rate1e-05
+epochs : 19
+train_loss : 1.5205181053435186
+val_loss : 1.6009980209412114
+batch_size:40 learning_rate1e-05
+epochs : 0
+train_loss : 1.5873785220568453
+val_loss : 1.6097407960891723
+batch_size:50 learning_rate0.001
+epochs : 1
+train_loss : 1.552139038470254
+val_loss : 1.6002580976486207
+batch_size:50 learning_rate0.001
+epochs : 2
+train_loss : 1.5398418725426517
+val_loss : 1.6377262330055238
+batch_size:50 learning_rate0.001
+epochs : 3
+train_loss : 1.5400132225520575
+val_loss : 1.6029483485221863
+batch_size:50 learning_rate0.001
+epochs : 4
+train_loss : 1.5430475283617997
+val_loss : 1.6044447565078734
+batch_size:50 learning_rate0.001
+epochs : 5
+train_loss : 1.5273395450554084
+val_loss : 1.5986769533157348
+batch_size:50 learning_rate0.001
+epochs : 6
+train_loss : 1.5263587153373073
+val_loss : 1.6080282258987426
+batch_size:50 learning_rate0.001
+epochs : 7
+train_loss : 1.5284028272723678
+val_loss : 1.6149879050254823
+batch_size:50 learning_rate0.001
+epochs : 8
+train_loss : 1.5254471408787058
+val_loss : 1.6115996885299682
+batch_size:50 learning_rate0.001
+epochs : 9
+train_loss : 1.524800444716838
+val_loss : 1.6106448078155517
+batch_size:50 learning_rate0.001
+epochs : 10
+train_loss : 1.5235983874667343
+val_loss : 1.6135116934776306
+batch_size:50 learning_rate0.001
+epochs : 11
+train_loss : 1.5231365451765297
+val_loss : 1.6125532984733582
+batch_size:50 learning_rate0.001
+epochs : 12
+train_loss : 1.5216365928080544
+val_loss : 1.610373945236206
+batch_size:50 learning_rate0.001
+epochs : 13
+train_loss : 1.5238126670543235
+val_loss : 1.5959249305725098
+batch_size:50 learning_rate0.001
+epochs : 14
+train_loss : 1.5239382383242175
+val_loss : 1.6036474990844727
+batch_size:50 learning_rate0.001
+epochs : 15
+train_loss : 1.5224507803940655
+val_loss : 1.6058605194091797
+batch_size:50 learning_rate0.001
+epochs : 16
+train_loss : 1.523754500037995
+val_loss : 1.599047179222107
+batch_size:50 learning_rate0.001
+epochs : 17
+train_loss : 1.522149698058171
+val_loss : 1.5938134336471557
+batch_size:50 learning_rate0.001
+epochs : 18
+train_loss : 1.5222729171686504
+val_loss : 1.6083951830863952
+batch_size:50 learning_rate0.001
+epochs : 19
+train_loss : 1.5223017581066682
+val_loss : 1.5973127174377442
+batch_size:50 learning_rate0.001
+epochs : 0
+train_loss : 1.629770039325923
+val_loss : 1.670043053627014
+batch_size:50 learning_rate0.0001
+epochs : 1
+train_loss : 1.5604946263393953
+val_loss : 1.622862491607666
+batch_size:50 learning_rate0.0001
+epochs : 2
+train_loss : 1.5288144557630245
+val_loss : 1.6284108591079711
+batch_size:50 learning_rate0.0001
+epochs : 3
+train_loss : 1.5257862219169958
+val_loss : 1.6303321671485902
+batch_size:50 learning_rate0.0001
+epochs : 4
+train_loss : 1.5249394486792645
+val_loss : 1.6462054443359375
+batch_size:50 learning_rate0.0001
+epochs : 5
+train_loss : 1.5242184602206026
+val_loss : 1.5948176312446594
+batch_size:50 learning_rate0.0001
+epochs : 6
+train_loss : 1.5214544066149205
+val_loss : 1.6054810285568237
+batch_size:50 learning_rate0.0001
+epochs : 7
+train_loss : 1.521852175394694
+val_loss : 1.5979910707473755
+batch_size:50 learning_rate0.0001
+epochs : 8
+train_loss : 1.522148610347539
+val_loss : 1.60426504611969
+batch_size:50 learning_rate0.0001
+epochs : 9
+train_loss : 1.5212039811101126
+val_loss : 1.600327160358429
+batch_size:50 learning_rate0.0001
+epochs : 10
+train_loss : 1.5205276463162247
+val_loss : 1.5860149455070496
+batch_size:50 learning_rate0.0001
+epochs : 11
+train_loss : 1.51845192494084
+val_loss : 1.5886983942985535
+batch_size:50 learning_rate0.0001
+epochs : 12
+train_loss : 1.5166945706552535
+val_loss : 1.5838367700576783
+batch_size:50 learning_rate0.0001
+epochs : 13
+train_loss : 1.5157978653314694
+val_loss : 1.5911040210723877
+batch_size:50 learning_rate0.0001
+epochs : 14
+train_loss : 1.5170212924776978
+val_loss : 1.58294527053833
+batch_size:50 learning_rate0.0001
+epochs : 15
+train_loss : 1.5156325273845919
+val_loss : 1.5993174076080323
+batch_size:50 learning_rate0.0001
+epochs : 16
+train_loss : 1.5165272885887184
+val_loss : 1.5965507078170775
+batch_size:50 learning_rate0.0001
+epochs : 17
+train_loss : 1.5152033691975608
+val_loss : 1.5919475173950195
+batch_size:50 learning_rate0.0001
+epochs : 18
+train_loss : 1.5134215906484803
+val_loss : 1.5875491428375244
+batch_size:50 learning_rate0.0001
+epochs : 19
+train_loss : 1.5090273369604081
+val_loss : 1.59280433177948
+batch_size:50 learning_rate0.0001
+epochs : 0
+train_loss : 1.5825387049670243
+val_loss : 1.6049197244644164
+batch_size:50 learning_rate0.0005
+epochs : 1
+train_loss : 1.5351992228730995
+val_loss : 1.6098690938949585
+batch_size:50 learning_rate0.0005
+epochs : 2
+train_loss : 1.5377624515277237
+val_loss : 1.5935846042633057
+batch_size:50 learning_rate0.0005
+epochs : 3
+train_loss : 1.532579794451965
+val_loss : 1.5998115301132203
+batch_size:50 learning_rate0.0005
+epochs : 4
+train_loss : 1.5278173435979814
+val_loss : 1.5999086499214172
+batch_size:50 learning_rate0.0005
+epochs : 5
+train_loss : 1.5282163958051311
+val_loss : 1.5980288147926331
+batch_size:50 learning_rate0.0005
+epochs : 6
+train_loss : 1.5270302615948577
+val_loss : 1.5938088059425355
+batch_size:50 learning_rate0.0005
+epochs : 7
+train_loss : 1.5253406923208663
+val_loss : 1.607842936515808
+batch_size:50 learning_rate0.0005
+epochs : 8
+train_loss : 1.530183599956
+val_loss : 1.60973304271698
+batch_size:50 learning_rate0.0005
+epochs : 9
+train_loss : 1.5324391031739724
+val_loss : 1.6055001568794252
+batch_size:50 learning_rate0.0005
+epochs : 10
+train_loss : 1.5274989207585652
+val_loss : 1.6414394426345824
+batch_size:50 learning_rate0.0005
+epochs : 11
+train_loss : 1.5241735171322799
+val_loss : 1.592362802028656
+batch_size:50 learning_rate0.0005
+epochs : 12
+train_loss : 1.5237374258278615
+val_loss : 1.599814898967743
+batch_size:50 learning_rate0.0005
+epochs : 13
+train_loss : 1.5216284936933375
+val_loss : 1.6106514024734497
+batch_size:50 learning_rate0.0005
+epochs : 14
+train_loss : 1.521169007121034
+val_loss : 1.594478485584259
+batch_size:50 learning_rate0.0005
+epochs : 15
+train_loss : 1.5211626836909584
+val_loss : 1.596123580932617
+batch_size:50 learning_rate0.0005
+epochs : 16
+train_loss : 1.5193586734989983
+val_loss : 1.604653103351593
+batch_size:50 learning_rate0.0005
+epochs : 17
+train_loss : 1.5202743153073894
+val_loss : 1.607695369720459
+batch_size:50 learning_rate0.0005
+epochs : 18
+train_loss : 1.5210715117146127
+val_loss : 1.6169027829170226
+batch_size:50 learning_rate0.0005
+epochs : 19
+train_loss : 1.5189343738318675
+val_loss : 1.61723384141922
+batch_size:50 learning_rate0.0005
+epochs : 0
+train_loss : 1.691534790233593
+val_loss : 1.6791345357894898
+batch_size:50 learning_rate1e-05
+epochs : 1
+train_loss : 1.626321373294242
+val_loss : 1.6385079407691956
+batch_size:50 learning_rate1e-05
+epochs : 2
+train_loss : 1.6153680685147718
+val_loss : 1.6320508646965026
+batch_size:50 learning_rate1e-05
+epochs : 3
+train_loss : 1.6075617964587994
+val_loss : 1.6301775455474854
+batch_size:50 learning_rate1e-05
+epochs : 4
+train_loss : 1.5996958082588157
+val_loss : 1.6282723093032836
+batch_size:50 learning_rate1e-05
+epochs : 5
+train_loss : 1.5919770779301279
+val_loss : 1.6316568899154662
+batch_size:50 learning_rate1e-05
+epochs : 6
+train_loss : 1.5848592104603403
+val_loss : 1.6325737118721009
+batch_size:50 learning_rate1e-05
+epochs : 7
+train_loss : 1.576648025963437
+val_loss : 1.6374528360366822
+batch_size:50 learning_rate1e-05
+epochs : 8
+train_loss : 1.5724684462618472
+val_loss : 1.6307579708099365
+batch_size:50 learning_rate1e-05
+epochs : 9
+train_loss : 1.5632510108141164
+val_loss : 1.6358896493911743
+batch_size:50 learning_rate1e-05
+epochs : 10
+train_loss : 1.5601638003961364
+val_loss : 1.6340907764434816
+batch_size:50 learning_rate1e-05
+epochs : 11
+train_loss : 1.5588034432918871
+val_loss : 1.6266519284248353
+batch_size:50 learning_rate1e-05
+epochs : 12
+train_loss : 1.5511669139956954
+val_loss : 1.630441014766693
+batch_size:50 learning_rate1e-05
+epochs : 13
+train_loss : 1.5482927975963003
+val_loss : 1.6358446407318115
+batch_size:50 learning_rate1e-05
+epochs : 14
+train_loss : 1.5439206367701441
+val_loss : 1.6313417673110961
+batch_size:50 learning_rate1e-05
+epochs : 15
+train_loss : 1.5397871394655598
+val_loss : 1.623517746925354
+batch_size:50 learning_rate1e-05
+epochs : 16
+train_loss : 1.5349140689147645
+val_loss : 1.6177480506896973
+batch_size:50 learning_rate1e-05
+epochs : 17
+train_loss : 1.5338691698377998
+val_loss : 1.618601131439209
+batch_size:50 learning_rate1e-05
+epochs : 18
+train_loss : 1.5291813955971258
+val_loss : 1.6159974908828736
+batch_size:50 learning_rate1e-05
+epochs : 19
+train_loss : 1.5255528285135678
+val_loss : 1.6118610334396362
+batch_size:50 learning_rate1e-05
+epochs : 0
+train_loss : 1.5859695073373303
+val_loss : 1.6254243195056914
+batch_size:60 learning_rate0.001
+epochs : 1
+train_loss : 1.5405204224729252
+val_loss : 1.6136969923973083
+batch_size:60 learning_rate0.001
+epochs : 2
+train_loss : 1.5453720256953896
+val_loss : 1.614914146065712
+batch_size:60 learning_rate0.001
+epochs : 3
+train_loss : 1.534417926194425
+val_loss : 1.6061224967241288
+batch_size:60 learning_rate0.001
+epochs : 4
+train_loss : 1.545063246509986
+val_loss : 1.6112255096435546
+batch_size:60 learning_rate0.001
+epochs : 5
+train_loss : 1.5433074442926282
+val_loss : 1.5966047763824462
+batch_size:60 learning_rate0.001
+epochs : 6
+train_loss : 1.528456467354369
+val_loss : 1.6180733680725097
+batch_size:60 learning_rate0.001
+epochs : 7
+train_loss : 1.5274033210948557
+val_loss : 1.6009047478437424
+batch_size:60 learning_rate0.001
+epochs : 8
+train_loss : 1.5286690060963888
+val_loss : 1.5994337886571883
+batch_size:60 learning_rate0.001
+epochs : 9
+train_loss : 1.52465719876889
+val_loss : 1.6033038914203643
+batch_size:60 learning_rate0.001
+epochs : 10
+train_loss : 1.5266092216183325
+val_loss : 1.5895441323518753
+batch_size:60 learning_rate0.001
+epochs : 11
+train_loss : 1.5225576590635106
+val_loss : 1.5947048038244247
+batch_size:60 learning_rate0.001
+epochs : 12
+train_loss : 1.5219000770660218
+val_loss : 1.5939681887626649
+batch_size:60 learning_rate0.001
+epochs : 13
+train_loss : 1.5244293655464036
+val_loss : 1.5974380105733872
+batch_size:60 learning_rate0.001
+epochs : 14
+train_loss : 1.524505007766678
+val_loss : 1.6042211472988128
+batch_size:60 learning_rate0.001
+epochs : 15
+train_loss : 1.5234933641856303
+val_loss : 1.5934071660041809
+batch_size:60 learning_rate0.001
+epochs : 16
+train_loss : 1.5219433678838308
+val_loss : 1.5917160302400588
+batch_size:60 learning_rate0.001
+epochs : 17
+train_loss : 1.5241123052414305
+val_loss : 1.5999519646167755
+batch_size:60 learning_rate0.001
+epochs : 18
+train_loss : 1.5254840700926182
+val_loss : 1.607461941242218
+batch_size:60 learning_rate0.001
+epochs : 19
+train_loss : 1.5240720481929664
+val_loss : 1.598248040676117
+batch_size:60 learning_rate0.001
+epochs : 0
+train_loss : 1.62609569398229
+val_loss : 1.6838232815265655
+batch_size:60 learning_rate0.0001
+epochs : 1
+train_loss : 1.5695326142682287
+val_loss : 1.6632536768913269
+batch_size:60 learning_rate0.0001
+epochs : 2
+train_loss : 1.5328083787849562
+val_loss : 1.6261153399944306
+batch_size:60 learning_rate0.0001
+epochs : 3
+train_loss : 1.525044893790148
+val_loss : 1.6086969435214997
+batch_size:60 learning_rate0.0001
+epochs : 4
+train_loss : 1.5225578753534192
+val_loss : 1.6108264327049255
+batch_size:60 learning_rate0.0001
+epochs : 5
+train_loss : 1.5203069162939837
+val_loss : 1.6004946053028106
+batch_size:60 learning_rate0.0001
+epochs : 6
+train_loss : 1.520637711365066
+val_loss : 1.6032571494579315
+batch_size:60 learning_rate0.0001
+epochs : 7
+train_loss : 1.5205820363438771
+val_loss : 1.5854479372501373
+batch_size:60 learning_rate0.0001
+epochs : 8
+train_loss : 1.518492218263135
+val_loss : 1.5945731312036515
+batch_size:60 learning_rate0.0001
+epochs : 9
+train_loss : 1.5181164427431757
+val_loss : 1.5952853679656982
+batch_size:60 learning_rate0.0001
+epochs : 10
+train_loss : 1.5165447453538814
+val_loss : 1.585287857055664
+batch_size:60 learning_rate0.0001
+epochs : 11
+train_loss : 1.5142679699880635
+val_loss : 1.5894019812345506
+batch_size:60 learning_rate0.0001
+epochs : 12
+train_loss : 1.5131660371483444
+val_loss : 1.602895087003708
+batch_size:60 learning_rate0.0001
+epochs : 13
+train_loss : 1.5134323828234644
+val_loss : 1.5767043948173523
+batch_size:60 learning_rate0.0001
+epochs : 14
+train_loss : 1.5147242267688592
+val_loss : 1.5876697540283202
+batch_size:60 learning_rate0.0001
+epochs : 15
+train_loss : 1.5123398496719178
+val_loss : 1.5921516954898833
+batch_size:60 learning_rate0.0001
+epochs : 16
+train_loss : 1.5069020251314083
+val_loss : 1.5905694901943206
+batch_size:60 learning_rate0.0001
+epochs : 17
+train_loss : 1.5130628918459315
+val_loss : 1.5898497432470322
+batch_size:60 learning_rate0.0001
+epochs : 18
+train_loss : 1.5075922140818157
+val_loss : 1.5939919829368592
+batch_size:60 learning_rate0.0001
+epochs : 19
+train_loss : 1.504068630184242
+val_loss : 1.598733013868332
+batch_size:60 learning_rate0.0001
+epochs : 0
+train_loss : 1.5856494753660557
+val_loss : 1.6218759179115296
+batch_size:60 learning_rate0.0005
+epochs : 1
+train_loss : 1.5420564384517554
+val_loss : 1.596014153957367
+batch_size:60 learning_rate0.0005
+epochs : 2
+train_loss : 1.5266802532230308
+val_loss : 1.6008111357688903
+batch_size:60 learning_rate0.0005
+epochs : 3
+train_loss : 1.5303909300330156
+val_loss : 1.6566754013299942
+batch_size:60 learning_rate0.0005
+epochs : 4
+train_loss : 1.5326654090138967
+val_loss : 1.5968817740678787
+batch_size:60 learning_rate0.0005
+epochs : 5
+train_loss : 1.5231957021587623
+val_loss : 1.6056232362985612
+batch_size:60 learning_rate0.0005
+epochs : 6
+train_loss : 1.5269991116609403
+val_loss : 1.6113230049610139
+batch_size:60 learning_rate0.0005
+epochs : 7
+train_loss : 1.5236356172732963
+val_loss : 1.587494120001793
+batch_size:60 learning_rate0.0005
+epochs : 8
+train_loss : 1.524789819460429
+val_loss : 1.5999151080846787
+batch_size:60 learning_rate0.0005
+epochs : 9
+train_loss : 1.526758989888037
+val_loss : 1.599536469578743
+batch_size:60 learning_rate0.0005
+epochs : 10
+train_loss : 1.5259048596113742
+val_loss : 1.592335444688797
+batch_size:60 learning_rate0.0005
+epochs : 11
+train_loss : 1.5223358205692497
+val_loss : 1.604641965031624
+batch_size:60 learning_rate0.0005
+epochs : 12
+train_loss : 1.5323147324030986
+val_loss : 1.6431081354618073
+batch_size:60 learning_rate0.0005
+epochs : 13
+train_loss : 1.527400632104474
+val_loss : 1.5813811749219895
+batch_size:60 learning_rate0.0005
+epochs : 14
+train_loss : 1.5219605718544142
+val_loss : 1.5935323983430862
+batch_size:60 learning_rate0.0005
+epochs : 15
+train_loss : 1.5223107323675098
+val_loss : 1.6089099526405335
+batch_size:60 learning_rate0.0005
+epochs : 16
+train_loss : 1.5226087912827908
+val_loss : 1.5924360156059265
+batch_size:60 learning_rate0.0005
+epochs : 17
+train_loss : 1.519010593791208
+val_loss : 1.5863957345485686
+batch_size:60 learning_rate0.0005
+epochs : 18
+train_loss : 1.5229388618183708
+val_loss : 1.5907299727201463
+batch_size:60 learning_rate0.0005
+epochs : 19
+train_loss : 1.5186622199897994
+val_loss : 1.6110369652509688
+batch_size:60 learning_rate0.0005
+epochs : 0
+train_loss : 1.7048648224619334
+val_loss : 1.6923891246318816
+batch_size:60 learning_rate1e-05
+epochs : 1
+train_loss : 1.6366417350883256
+val_loss : 1.641776043176651
+batch_size:60 learning_rate1e-05
+epochs : 2
+train_loss : 1.621967587642327
+val_loss : 1.6347160577774047
+batch_size:60 learning_rate1e-05
+epochs : 3
+train_loss : 1.6123198427839907
+val_loss : 1.6305441170930863
+batch_size:60 learning_rate1e-05
+epochs : 4
+train_loss : 1.6085658723008847
+val_loss : 1.6276579976081849
+batch_size:60 learning_rate1e-05
+epochs : 5
+train_loss : 1.5982839168902643
+val_loss : 1.6290722727775573
+batch_size:60 learning_rate1e-05
+epochs : 6
+train_loss : 1.5912632513902858
+val_loss : 1.6237299740314484
+batch_size:60 learning_rate1e-05
+epochs : 7
+train_loss : 1.5841516506172226
+val_loss : 1.6277048110961914
+batch_size:60 learning_rate1e-05
+epochs : 8
+train_loss : 1.5731429661105494
+val_loss : 1.6261269509792329
+batch_size:60 learning_rate1e-05
+epochs : 9
+train_loss : 1.5699295776332924
+val_loss : 1.640846636891365
+batch_size:60 learning_rate1e-05
+epochs : 10
+train_loss : 1.5655001951548868
+val_loss : 1.62761033475399
+batch_size:60 learning_rate1e-05
+epochs : 11
+train_loss : 1.5600656078247253
+val_loss : 1.6317289531230927
+batch_size:60 learning_rate1e-05
+epochs : 12
+train_loss : 1.5576534699537083
+val_loss : 1.634850162267685
+batch_size:60 learning_rate1e-05
+epochs : 13
+train_loss : 1.5534054326440045
+val_loss : 1.6289399296045304
+batch_size:60 learning_rate1e-05
+epochs : 14
+train_loss : 1.5470049052895187
+val_loss : 1.6203430533409118
+batch_size:60 learning_rate1e-05
+epochs : 15
+train_loss : 1.5469375142080342
+val_loss : 1.620106393098831
+batch_size:60 learning_rate1e-05
+epochs : 16
+train_loss : 1.5439181863190885
+val_loss : 1.6227572828531265
+batch_size:60 learning_rate1e-05
+epochs : 17
+train_loss : 1.5400673743493543
+val_loss : 1.6217030346393586
+batch_size:60 learning_rate1e-05
+epochs : 18
+train_loss : 1.5361457470648303
+val_loss : 1.6150584489107132
+batch_size:60 learning_rate1e-05
+epochs : 19
+train_loss : 1.5326737815034603
+val_loss : 1.6069640457630157
+batch_size:60 learning_rate1e-05
+epochs : 0
+train_loss : 1.5979191860354753
+val_loss : 1.6230771089753797
+batch_size:20 learning_rate0.001
+epochs : 1
+train_loss : 1.5501151932663177
+val_loss : 1.6077815957607762
+batch_size:20 learning_rate0.001
+epochs : 2
+train_loss : 1.5615155179187121
+val_loss : 1.6226946471198913
+batch_size:20 learning_rate0.001
+epochs : 3
+train_loss : 1.550403937163106
+val_loss : 1.6020064132828866
+batch_size:20 learning_rate0.001
+epochs : 4
+train_loss : 1.5602030673349996
+val_loss : 1.6292477692327192
+batch_size:20 learning_rate0.001
+epochs : 5
+train_loss : 1.5566340865366963
+val_loss : 1.6670345298705562
+batch_size:20 learning_rate0.001
+epochs : 6
+train_loss : 1.558430314776432
+val_loss : 1.6413764819022147
+batch_size:20 learning_rate0.001
+epochs : 7
+train_loss : 1.555001116368875
+val_loss : 1.6125425600236463
+batch_size:20 learning_rate0.001
+epochs : 8
+train_loss : 1.5577840897666506
+val_loss : 1.6298556885411661
+batch_size:20 learning_rate0.001
+epochs : 9
+train_loss : 1.5530966256719188
+val_loss : 1.6293905156273996
+batch_size:20 learning_rate0.001
+epochs : 10
+train_loss : 1.5671436501689167
+val_loss : 1.6450923065985403
+batch_size:20 learning_rate0.001
+epochs : 11
+train_loss : 1.5749949501805096
+val_loss : 1.6478301344379302
+batch_size:20 learning_rate0.001
+epochs : 12
+train_loss : 1.5639501408751741
+val_loss : 1.653308960699266
+batch_size:20 learning_rate0.001
+epochs : 13
+train_loss : 1.5471934312843232
+val_loss : 1.6082334874137756
+batch_size:20 learning_rate0.001
+epochs : 14
+train_loss : 1.5776804690342026
+val_loss : 1.648708023371235
+batch_size:20 learning_rate0.001
+epochs : 15
+train_loss : 1.6012666510395794
+val_loss : 1.5981984561489475
+batch_size:20 learning_rate0.001
+epochs : 16
+train_loss : 1.6960368260919336
+val_loss : 1.6555280127832968
+batch_size:20 learning_rate0.001
+epochs : 17
+train_loss : 1.5765646553609476
+val_loss : 1.6623773103760136
+batch_size:20 learning_rate0.001
+epochs : 18
+train_loss : 1.6360904674131083
+val_loss : 1.6476847356365574
+batch_size:20 learning_rate0.001
+epochs : 19
+train_loss : 1.6133203879295592
+val_loss : 1.6657857010441441
+batch_size:20 learning_rate0.001
+epochs : 0
+train_loss : 1.6432652962635237
+val_loss : 1.6181569368608537
+batch_size:20 learning_rate0.0001
+epochs : 1
+train_loss : 1.573756295846278
+val_loss : 1.639043842592547
+batch_size:20 learning_rate0.0001
+epochs : 2
+train_loss : 1.5635725361892427
+val_loss : 1.6114829903648746
+batch_size:20 learning_rate0.0001
+epochs : 3
+train_loss : 1.5570143470726165
+val_loss : 1.602160974856346
+batch_size:20 learning_rate0.0001
+epochs : 4
+train_loss : 1.5350425789555706
+val_loss : 1.5912752872513187
+batch_size:20 learning_rate0.0001
+epochs : 5
+train_loss : 1.526855350728054
+val_loss : 1.5870637653335449
+batch_size:20 learning_rate0.0001
+epochs : 6
+train_loss : 1.5253152467340112
+val_loss : 1.5862054824829102
+batch_size:20 learning_rate0.0001
+epochs : 7
+train_loss : 1.5241007346556006
+val_loss : 1.5863696952019968
+batch_size:20 learning_rate0.0001
+epochs : 8
+train_loss : 1.5220982042916742
+val_loss : 1.587357521057129
+batch_size:20 learning_rate0.0001
+epochs : 9
+train_loss : 1.5218898582743459
+val_loss : 1.5945809733483098
+batch_size:20 learning_rate0.0001
+epochs : 10
+train_loss : 1.5207724815820793
+val_loss : 1.5908110372481807
+batch_size:20 learning_rate0.0001
+epochs : 11
+train_loss : 1.5193947662870249
+val_loss : 1.5892913735681964
+batch_size:20 learning_rate0.0001
+epochs : 12
+train_loss : 1.519786197113326
+val_loss : 1.586972782688756
+batch_size:20 learning_rate0.0001
+epochs : 13
+train_loss : 1.5202806245283302
+val_loss : 1.5874465454009272
+batch_size:20 learning_rate0.0001
+epochs : 14
+train_loss : 1.5171942841484252
+val_loss : 1.5893459185477226
+batch_size:20 learning_rate0.0001
+epochs : 15
+train_loss : 1.5166982360095143
+val_loss : 1.5853719740144667
+batch_size:20 learning_rate0.0001
+epochs : 16
+train_loss : 1.5154504529033523
+val_loss : 1.5872958715884917
+batch_size:20 learning_rate0.0001
+epochs : 17
+train_loss : 1.5133456630535809
+val_loss : 1.58769255299722
+batch_size:20 learning_rate0.0001
+epochs : 18
+train_loss : 1.5118083785254641
+val_loss : 1.5844420406126207
+batch_size:20 learning_rate0.0001
+epochs : 19
+train_loss : 1.5112157729992353
+val_loss : 1.5878773466233285
+batch_size:20 learning_rate0.0001
+epochs : 0
+train_loss : 1.6021269697592078
+val_loss : 1.5950644073947784
+batch_size:20 learning_rate0.0005
+epochs : 1
+train_loss : 1.5395567645114732
+val_loss : 1.6068715087829097
+batch_size:20 learning_rate0.0005
+epochs : 2
+train_loss : 1.5400038501655913
+val_loss : 1.6683118852876848
+batch_size:20 learning_rate0.0005
+epochs : 3
+train_loss : 1.5358885676262388
+val_loss : 1.612254588834701
+batch_size:20 learning_rate0.0005
+epochs : 4
+train_loss : 1.5347318509185457
+val_loss : 1.6006357785194152
+batch_size:20 learning_rate0.0005
+epochs : 5
+train_loss : 1.5355516755248446
+val_loss : 1.605164873984552
+batch_size:20 learning_rate0.0005
+epochs : 6
+train_loss : 1.5421777272604376
+val_loss : 1.6150468309079447
+batch_size:20 learning_rate0.0005
+epochs : 7
+train_loss : 1.5327370002925158
+val_loss : 1.6006129143699523
+batch_size:20 learning_rate0.0005
+epochs : 8
+train_loss : 1.5395440366638609
+val_loss : 1.599379470271449
+batch_size:20 learning_rate0.0005
+epochs : 9
+train_loss : 1.5310845455800395
+val_loss : 1.5912872149098305
+batch_size:20 learning_rate0.0005
+epochs : 10
+train_loss : 1.5299570809797463
+val_loss : 1.5921839600609196
+batch_size:20 learning_rate0.0005
+epochs : 11
+train_loss : 1.5325807449352218
+val_loss : 1.609671535030488
+batch_size:20 learning_rate0.0005
+epochs : 12
+train_loss : 1.5333629364511405
+val_loss : 1.5851696816182905
+batch_size:20 learning_rate0.0005
+epochs : 13
+train_loss : 1.529963843376038
+val_loss : 1.5951763497244926
+batch_size:20 learning_rate0.0005
+epochs : 14
+train_loss : 1.5289249781118446
+val_loss : 1.5909726023674011
+batch_size:20 learning_rate0.0005
+epochs : 15
+train_loss : 1.5282585556763577
+val_loss : 1.659975714260532
+batch_size:20 learning_rate0.0005
+epochs : 16
+train_loss : 1.5299714708708196
+val_loss : 1.6131102240854693
+batch_size:20 learning_rate0.0005
+epochs : 17
+train_loss : 1.5248031248134446
+val_loss : 1.6093202858201918
+batch_size:20 learning_rate0.0005
+epochs : 18
+train_loss : 1.5290369248960123
+val_loss : 1.5882631521071158
+batch_size:20 learning_rate0.0005
+epochs : 19
+train_loss : 1.526012490470096
+val_loss : 1.5943391707635695
+batch_size:20 learning_rate0.0005
+epochs : 0
+train_loss : 1.7266600692414666
+val_loss : 1.725698197080243
+batch_size:20 learning_rate1e-05
+epochs : 1
+train_loss : 1.691237705874728
+val_loss : 1.7172312448101659
+batch_size:20 learning_rate1e-05
+epochs : 2
+train_loss : 1.6747242485384541
+val_loss : 1.699624909508613
+batch_size:20 learning_rate1e-05
+epochs : 3
+train_loss : 1.6666177537336768
+val_loss : 1.6898918728674612
+batch_size:20 learning_rate1e-05
+epochs : 4
+train_loss : 1.6484939857308134
+val_loss : 1.6782954123712355
+batch_size:20 learning_rate1e-05
+epochs : 5
+train_loss : 1.6285530687328353
+val_loss : 1.6561928718320784
+batch_size:20 learning_rate1e-05
+epochs : 6
+train_loss : 1.5997127581877537
+val_loss : 1.6302822741769976
+batch_size:20 learning_rate1e-05
+epochs : 7
+train_loss : 1.5928921585538949
+val_loss : 1.6255547115879674
+batch_size:20 learning_rate1e-05
+epochs : 8
+train_loss : 1.5822001040219311
+val_loss : 1.6251108184937508
+batch_size:20 learning_rate1e-05
+epochs : 9
+train_loss : 1.578043350185531
+val_loss : 1.6254933255334054
+batch_size:20 learning_rate1e-05
+epochs : 10
+train_loss : 1.5775721773683313
+val_loss : 1.614759422117664
+batch_size:20 learning_rate1e-05
+epochs : 11
+train_loss : 1.5715003179838933
+val_loss : 1.6177955087154143
+batch_size:20 learning_rate1e-05
+epochs : 12
+train_loss : 1.5650897417885374
+val_loss : 1.6145683267424185
+batch_size:20 learning_rate1e-05
+epochs : 13
+train_loss : 1.5650975096273232
+val_loss : 1.6192779021878396
+batch_size:20 learning_rate1e-05
+epochs : 14
+train_loss : 1.5630224434977984
+val_loss : 1.614339082471786
+batch_size:20 learning_rate1e-05
+epochs : 15
+train_loss : 1.563559988580377
+val_loss : 1.6186711403631395
+batch_size:20 learning_rate1e-05
+epochs : 16
+train_loss : 1.5615742947475844
+val_loss : 1.6194004166510798
+batch_size:20 learning_rate1e-05
+epochs : 17
+train_loss : 1.5588608025554642
+val_loss : 1.6175808887327872
+batch_size:20 learning_rate1e-05
+epochs : 18
+train_loss : 1.5584809673259932
+val_loss : 1.616259108627996
+batch_size:20 learning_rate1e-05
+epochs : 19
+train_loss : 1.5592435603122787
+val_loss : 1.6184617175209908
+batch_size:20 learning_rate1e-05
+epochs : 0
+train_loss : 1.5985700742522282
+val_loss : 1.600085924311382
+batch_size:30 learning_rate0.001
+epochs : 1
+train_loss : 1.54371253234237
+val_loss : 1.5869014495756568
+batch_size:30 learning_rate0.001
+epochs : 2
+train_loss : 1.5486293276744103
+val_loss : 1.6037585560868426
+batch_size:30 learning_rate0.001
+epochs : 3
+train_loss : 1.5451029375417908
+val_loss : 1.6583873266127052
+batch_size:30 learning_rate0.001
+epochs : 4
+train_loss : 1.549231234593178
+val_loss : 1.5883760408657353
+batch_size:30 learning_rate0.001
+epochs : 5
+train_loss : 1.5420558381436476
+val_loss : 1.6509497470972014
+batch_size:30 learning_rate0.001
+epochs : 6
+train_loss : 1.5429790027105985
+val_loss : 1.5959944710498903
+batch_size:30 learning_rate0.001
+epochs : 7
+train_loss : 1.5463792000243912
+val_loss : 1.6047612123373078
+batch_size:30 learning_rate0.001
+epochs : 8
+train_loss : 1.5450301469261967
+val_loss : 1.7756572452987112
+batch_size:30 learning_rate0.001
+epochs : 9
+train_loss : 1.542699606027176
+val_loss : 1.610751285785582
+batch_size:30 learning_rate0.001
+epochs : 10
+train_loss : 1.542188761127529
+val_loss : 1.6592871939263694
+batch_size:30 learning_rate0.001
+epochs : 11
+train_loss : 1.5425357249245715
+val_loss : 1.6205999356944387
+batch_size:30 learning_rate0.001
+epochs : 12
+train_loss : 1.5425784171517216
+val_loss : 1.6079512136738474
+batch_size:30 learning_rate0.001
+epochs : 13
+train_loss : 1.538903385845583
+val_loss : 1.6197302646753264
+batch_size:30 learning_rate0.001
+epochs : 14
+train_loss : 1.54907827982262
+val_loss : 1.6237308571978313
+batch_size:30 learning_rate0.001
+epochs : 15
+train_loss : 1.5498013813104203
+val_loss : 1.630604236591153
+batch_size:30 learning_rate0.001
+epochs : 16
+train_loss : 1.5356142157938943
+val_loss : 1.5823192102153127
+batch_size:30 learning_rate0.001
+epochs : 17
+train_loss : 1.5383938298296573
+val_loss : 1.6112877944620645
+batch_size:30 learning_rate0.001
+epochs : 18
+train_loss : 1.5416064949177983
+val_loss : 1.6181716177521683
+batch_size:30 learning_rate0.001
+epochs : 19
+train_loss : 1.5441288271946694
+val_loss : 1.583155425583444
+batch_size:30 learning_rate0.001
+epochs : 0
+train_loss : 1.657160125205766
+val_loss : 1.6300472137404651
+batch_size:30 learning_rate0.0001
+epochs : 1
+train_loss : 1.5844560292229724
+val_loss : 1.6177565499049862
+batch_size:30 learning_rate0.0001
+epochs : 2
+train_loss : 1.5679831999451366
+val_loss : 1.6137171111455777
+batch_size:30 learning_rate0.0001
+epochs : 3
+train_loss : 1.5599812756723432
+val_loss : 1.608605312138069
+batch_size:30 learning_rate0.0001
+epochs : 4
+train_loss : 1.5433326311965487
+val_loss : 1.5906321013846048
+batch_size:30 learning_rate0.0001
+epochs : 5
+train_loss : 1.5324907890006678
+val_loss : 1.5853196702352383
+batch_size:30 learning_rate0.0001
+epochs : 6
+train_loss : 1.5263163481185686
+val_loss : 1.5836635609952414
+batch_size:30 learning_rate0.0001
+epochs : 7
+train_loss : 1.5247977235423984
+val_loss : 1.581579188021218
+batch_size:30 learning_rate0.0001
+epochs : 8
+train_loss : 1.5236598128703103
+val_loss : 1.5811478771814487
+batch_size:30 learning_rate0.0001
+epochs : 9
+train_loss : 1.5195433235880154
+val_loss : 1.586582396088577
+batch_size:30 learning_rate0.0001
+epochs : 10
+train_loss : 1.5215224803383671
+val_loss : 1.5776434409909132
+batch_size:30 learning_rate0.0001
+epochs : 11
+train_loss : 1.521665038279633
+val_loss : 1.582850168390972
+batch_size:30 learning_rate0.0001
+epochs : 12
+train_loss : 1.5198103157442007
+val_loss : 1.5800259404066133
+batch_size:30 learning_rate0.0001
+epochs : 13
+train_loss : 1.5194580946395646
+val_loss : 1.5792264909279057
+batch_size:30 learning_rate0.0001
+epochs : 14
+train_loss : 1.5168900425754377
+val_loss : 1.593248832516554
+batch_size:30 learning_rate0.0001
+epochs : 15
+train_loss : 1.5173283192648817
+val_loss : 1.5827373062692038
+batch_size:30 learning_rate0.0001
+epochs : 16
+train_loss : 1.515417205753611
+val_loss : 1.5768370628356934
+batch_size:30 learning_rate0.0001
+epochs : 17
+train_loss : 1.5150084143254294
+val_loss : 1.5837675158570452
+batch_size:30 learning_rate0.0001
+epochs : 18
+train_loss : 1.5135198703452721
+val_loss : 1.5831135162493077
+batch_size:30 learning_rate0.0001
+epochs : 19
+train_loss : 1.5128260310016461
+val_loss : 1.5833962428860548
+batch_size:30 learning_rate0.0001
+epochs : 0
+train_loss : 1.6157205040775129
+val_loss : 1.670103000431526
+batch_size:30 learning_rate0.0005
+epochs : 1
+train_loss : 1.5391560600764715
+val_loss : 1.613107435586976
+batch_size:30 learning_rate0.0005
+epochs : 2
+train_loss : 1.5353932629770308
+val_loss : 1.619304441824192
+batch_size:30 learning_rate0.0005
+epochs : 3
+train_loss : 1.533445198856183
+val_loss : 1.5951291526236184
+batch_size:30 learning_rate0.0005
+epochs : 4
+train_loss : 1.5287186562125363
+val_loss : 1.5829703269935236
+batch_size:30 learning_rate0.0005
+epochs : 5
+train_loss : 1.534389968416584
+val_loss : 1.5861760392421629
+batch_size:30 learning_rate0.0005
+epochs : 6
+train_loss : 1.5310302357175456
+val_loss : 1.5870999141437252
+batch_size:30 learning_rate0.0005
+epochs : 7
+train_loss : 1.5293291387273305
+val_loss : 1.5988374018087619
+batch_size:30 learning_rate0.0005
+epochs : 8
+train_loss : 1.5286218785527927
+val_loss : 1.6068032296692454
+batch_size:30 learning_rate0.0005
+epochs : 9
+train_loss : 1.5295430275931288
+val_loss : 1.5833818069318446
+batch_size:30 learning_rate0.0005
+epochs : 10
+train_loss : 1.5276387634562023
+val_loss : 1.5849969154450951
+batch_size:30 learning_rate0.0005
+epochs : 11
+train_loss : 1.5296625308136442
+val_loss : 1.5868863158109712
+batch_size:30 learning_rate0.0005
+epochs : 12
+train_loss : 1.5257012299637296
+val_loss : 1.5893651581392056
+batch_size:30 learning_rate0.0005
+epochs : 13
+train_loss : 1.5239743485379575
+val_loss : 1.586657464504242
+batch_size:30 learning_rate0.0005
+epochs : 14
+train_loss : 1.52747068761
+val_loss : 1.5877960585966342
+batch_size:30 learning_rate0.0005
+epochs : 15
+train_loss : 1.5280357076160944
+val_loss : 1.5799400835502437
+batch_size:30 learning_rate0.0005
+epochs : 16
+train_loss : 1.5247862328344317
+val_loss : 1.5838456139331911
+batch_size:30 learning_rate0.0005
+epochs : 17
+train_loss : 1.5274087019820712
+val_loss : 1.5954606751116311
+batch_size:30 learning_rate0.0005
+epochs : 18
+train_loss : 1.5260647346724325
+val_loss : 1.5890987529987242
+batch_size:30 learning_rate0.0005
+epochs : 19
+train_loss : 1.523014870330469
+val_loss : 1.5947941716124372
+batch_size:30 learning_rate0.0005
+epochs : 0
+train_loss : 1.723524760488254
+val_loss : 1.7225035080095616
+batch_size:30 learning_rate1e-05
+epochs : 1
+train_loss : 1.6894019358193697
+val_loss : 1.704743306811263
+batch_size:30 learning_rate1e-05
+epochs : 2
+train_loss : 1.67866418575173
+val_loss : 1.694612558295087
+batch_size:30 learning_rate1e-05
+epochs : 3
+train_loss : 1.6673851401058595
+val_loss : 1.6920385128114281
+batch_size:30 learning_rate1e-05
+epochs : 4
+train_loss : 1.6560463617097085
+val_loss : 1.6823925768456809
+batch_size:30 learning_rate1e-05
+epochs : 5
+train_loss : 1.6472341953818477
+val_loss : 1.674047935299757
+batch_size:30 learning_rate1e-05
+epochs : 6
+train_loss : 1.6182958880467202
+val_loss : 1.6381590017458287
+batch_size:30 learning_rate1e-05
+epochs : 7
+train_loss : 1.5994066313131532
+val_loss : 1.617793273635027
+batch_size:30 learning_rate1e-05
+epochs : 8
+train_loss : 1.5914749074338088
+val_loss : 1.6137930779922298
+batch_size:30 learning_rate1e-05
+epochs : 9
+train_loss : 1.5856327579982246
+val_loss : 1.610932542056572
+batch_size:30 learning_rate1e-05
+epochs : 10
+train_loss : 1.5802072194085193
+val_loss : 1.6134603067142208
+batch_size:30 learning_rate1e-05
+epochs : 11
+train_loss : 1.5792113763182911
+val_loss : 1.6133536056774418
+batch_size:30 learning_rate1e-05
+epochs : 12
+train_loss : 1.5740812362130008
+val_loss : 1.6061838603601224
+batch_size:30 learning_rate1e-05
+epochs : 13
+train_loss : 1.5703473930928245
+val_loss : 1.6066046051862763
+batch_size:30 learning_rate1e-05
+epochs : 14
+train_loss : 1.569795617772572
+val_loss : 1.609092026222043
+batch_size:30 learning_rate1e-05
+epochs : 15
+train_loss : 1.565408997393366
+val_loss : 1.6056817929919174
+batch_size:30 learning_rate1e-05
+epochs : 16
+train_loss : 1.5639719916813408
+val_loss : 1.6088156903662332
+batch_size:30 learning_rate1e-05
+epochs : 17
+train_loss : 1.5627351828475498
+val_loss : 1.6041119069587895
+batch_size:30 learning_rate1e-05
+epochs : 18
+train_loss : 1.5628481292012912
+val_loss : 1.618755528112737
+batch_size:30 learning_rate1e-05
+epochs : 19
+train_loss : 1.5622887664766454
+val_loss : 1.6170740272940658
+batch_size:30 learning_rate1e-05
+epochs : 0
+train_loss : 1.5991597816763645
+val_loss : 1.6490774039299256
+batch_size:40 learning_rate0.001
+epochs : 1
+train_loss : 1.5414986828883805
+val_loss : 1.6499385929876758
+batch_size:40 learning_rate0.001
+epochs : 2
+train_loss : 1.54002981641853
+val_loss : 1.7098230354247554
+batch_size:40 learning_rate0.001
+epochs : 3
+train_loss : 1.5452076025693064
+val_loss : 1.5939512368171447
+batch_size:40 learning_rate0.001
+epochs : 4
+train_loss : 1.540011165151558
+val_loss : 1.6001880130460184
+batch_size:40 learning_rate0.001
+epochs : 5
+train_loss : 1.5413267707444758
+val_loss : 1.612219431707936
+batch_size:40 learning_rate0.001
+epochs : 6
+train_loss : 1.538098497694707
+val_loss : 1.6349994251804967
+batch_size:40 learning_rate0.001
+epochs : 7
+train_loss : 1.5342091697145743
+val_loss : 1.6007021973209996
+batch_size:40 learning_rate0.001
+epochs : 8
+train_loss : 1.5381633413740363
+val_loss : 1.647118620334133
+batch_size:40 learning_rate0.001
+epochs : 9
+train_loss : 1.5398119479061598
+val_loss : 1.5924029715599552
+batch_size:40 learning_rate0.001
+epochs : 10
+train_loss : 1.5431109144393191
+val_loss : 1.5896855092817737
+batch_size:40 learning_rate0.001
+epochs : 11
+train_loss : 1.5394965225006954
+val_loss : 1.602447421320023
+batch_size:40 learning_rate0.001
+epochs : 12
+train_loss : 1.5360011190057277
+val_loss : 1.7624357669584212
+batch_size:40 learning_rate0.001
+epochs : 13
+train_loss : 1.540982891838864
+val_loss : 1.6220522003789102
+batch_size:40 learning_rate0.001
+epochs : 14
+train_loss : 1.5341550510718054
+val_loss : 1.6048104147757254
+batch_size:40 learning_rate0.001
+epochs : 15
+train_loss : 1.5380565284257866
+val_loss : 1.6005218759659798
+batch_size:40 learning_rate0.001
+epochs : 16
+train_loss : 1.5441863807549039
+val_loss : 1.6003927607690134
+batch_size:40 learning_rate0.001
+epochs : 17
+train_loss : 1.5347408008765415
+val_loss : 1.6129590388267272
+batch_size:40 learning_rate0.001
+epochs : 18
+train_loss : 1.5366682588341702
+val_loss : 1.6250823659281577
+batch_size:40 learning_rate0.001
+epochs : 19
+train_loss : 1.5303262063706538
+val_loss : 1.5928808181516585
+batch_size:40 learning_rate0.001
+epochs : 0
+train_loss : 1.6511587369964418
+val_loss : 1.6243324433603594
+batch_size:40 learning_rate0.0001
+epochs : 1
+train_loss : 1.5912419106380873
+val_loss : 1.62296002141891
+batch_size:40 learning_rate0.0001
+epochs : 2
+train_loss : 1.5693774546285075
+val_loss : 1.6229786372953845
+batch_size:40 learning_rate0.0001
+epochs : 3
+train_loss : 1.559520723810234
+val_loss : 1.6205576004520539
+batch_size:40 learning_rate0.0001
+epochs : 4
+train_loss : 1.5534520690659603
+val_loss : 1.6058056085340437
+batch_size:40 learning_rate0.0001
+epochs : 5
+train_loss : 1.5389789475862723
+val_loss : 1.5920513714513471
+batch_size:40 learning_rate0.0001
+epochs : 6
+train_loss : 1.5267393019094886
+val_loss : 1.5914814741380754
+batch_size:40 learning_rate0.0001
+epochs : 7
+train_loss : 1.5240114309873238
+val_loss : 1.5876200506764073
+batch_size:40 learning_rate0.0001
+epochs : 8
+train_loss : 1.5236882930732818
+val_loss : 1.5903321581502115
+batch_size:40 learning_rate0.0001
+epochs : 9
+train_loss : 1.52230063472611
+val_loss : 1.5952930085120662
+batch_size:40 learning_rate0.0001
+epochs : 10
+train_loss : 1.5206084740589338
+val_loss : 1.584263636219886
+batch_size:40 learning_rate0.0001
+epochs : 11
+train_loss : 1.5195811193777746
+val_loss : 1.5835723915407736
+batch_size:40 learning_rate0.0001
+epochs : 12
+train_loss : 1.5187084142905307
+val_loss : 1.5874389563837359
+batch_size:40 learning_rate0.0001
+epochs : 13
+train_loss : 1.5181809640025712
+val_loss : 1.5921389537472879
+batch_size:40 learning_rate0.0001
+epochs : 14
+train_loss : 1.5186827011792308
+val_loss : 1.5876012040722756
+batch_size:40 learning_rate0.0001
+epochs : 15
+train_loss : 1.5172234108723492
+val_loss : 1.5883092380339099
+batch_size:40 learning_rate0.0001
+epochs : 16
+train_loss : 1.5155431896566869
+val_loss : 1.5866849883910148
+batch_size:40 learning_rate0.0001
+epochs : 17
+train_loss : 1.5161097363171825
+val_loss : 1.5922185105662192
+batch_size:40 learning_rate0.0001
+epochs : 18
+train_loss : 1.5145475902405392
+val_loss : 1.5915987606971496
+batch_size:40 learning_rate0.0001
+epochs : 19
+train_loss : 1.511357320257392
+val_loss : 1.5931934387453142
+batch_size:40 learning_rate0.0001
+epochs : 0
+train_loss : 1.6155495667362594
+val_loss : 1.600740744221595
+batch_size:40 learning_rate0.0005
+epochs : 1
+train_loss : 1.5394390944940635
+val_loss : 1.5985674300501425
+batch_size:40 learning_rate0.0005
+epochs : 2
+train_loss : 1.5349361811026159
+val_loss : 1.5973455136822117
+batch_size:40 learning_rate0.0005
+epochs : 3
+train_loss : 1.5331025608032347
+val_loss : 1.6030872444952688
+batch_size:40 learning_rate0.0005
+epochs : 4
+train_loss : 1.5301451887267519
+val_loss : 1.5887796417359383
+batch_size:40 learning_rate0.0005
+epochs : 5
+train_loss : 1.5320731942872128
+val_loss : 1.60575113373418
+batch_size:40 learning_rate0.0005
+epochs : 6
+train_loss : 1.5287676916654367
+val_loss : 1.6359217801401693
+batch_size:40 learning_rate0.0005
+epochs : 7
+train_loss : 1.5270427265965132
+val_loss : 1.59595755223305
+batch_size:40 learning_rate0.0005
+epochs : 8
+train_loss : 1.5258889397776934
+val_loss : 1.5958586546682543
+batch_size:40 learning_rate0.0005
+epochs : 9
+train_loss : 1.527149814058585
+val_loss : 1.5922202256418043
+batch_size:40 learning_rate0.0005
+epochs : 10
+train_loss : 1.5253523426701823
+val_loss : 1.5921273616052443
+batch_size:40 learning_rate0.0005
+epochs : 11
+train_loss : 1.5235585178512026
+val_loss : 1.5952647155331028
+batch_size:40 learning_rate0.0005
+epochs : 12
+train_loss : 1.5241518405329184
+val_loss : 1.5965219543826195
+batch_size:40 learning_rate0.0005
+epochs : 13
+train_loss : 1.525129477816274
+val_loss : 1.6207858016414027
+batch_size:40 learning_rate0.0005
+epochs : 14
+train_loss : 1.5216010177277948
+val_loss : 1.6001988726277505
+batch_size:40 learning_rate0.0005
+epochs : 15
+train_loss : 1.5188491952371788
+val_loss : 1.596026095651811
+batch_size:40 learning_rate0.0005
+epochs : 16
+train_loss : 1.5210879490195042
+val_loss : 1.6020683780793221
+batch_size:40 learning_rate0.0005
+epochs : 17
+train_loss : 1.52308548351683
+val_loss : 1.5929633302073325
+batch_size:40 learning_rate0.0005
+epochs : 18
+train_loss : 1.5196894298036734
+val_loss : 1.5983986047006422
+batch_size:40 learning_rate0.0005
+epochs : 19
+train_loss : 1.52241333072404
+val_loss : 1.5935529258943373
+batch_size:40 learning_rate0.0005
+epochs : 0
+train_loss : 1.7228714916335635
+val_loss : 1.7320604708886915
+batch_size:40 learning_rate1e-05
+epochs : 1
+train_loss : 1.6974510799841103
+val_loss : 1.7254035434415262
+batch_size:40 learning_rate1e-05
+epochs : 2
+train_loss : 1.6882383923131632
+val_loss : 1.7090256194914542
+batch_size:40 learning_rate1e-05
+epochs : 3
+train_loss : 1.676840892351006
+val_loss : 1.709694266319275
+batch_size:40 learning_rate1e-05
+epochs : 4
+train_loss : 1.6675098265309733
+val_loss : 1.6941558084180277
+batch_size:40 learning_rate1e-05
+epochs : 5
+train_loss : 1.6527714240123552
+val_loss : 1.6750395605641026
+batch_size:40 learning_rate1e-05
+epochs : 6
+train_loss : 1.6236482597442263
+val_loss : 1.6447601452950509
+batch_size:40 learning_rate1e-05
+epochs : 7
+train_loss : 1.6091188192367554
+val_loss : 1.6327620148658752
+batch_size:40 learning_rate1e-05
+epochs : 8
+train_loss : 1.6046144606107735
+val_loss : 1.628676301048648
+batch_size:40 learning_rate1e-05
+epochs : 9
+train_loss : 1.59829810606056
+val_loss : 1.625304070211226
+batch_size:40 learning_rate1e-05
+epochs : 10
+train_loss : 1.5951381347093925
+val_loss : 1.6262548123636553
+batch_size:40 learning_rate1e-05
+epochs : 11
+train_loss : 1.5887847108195028
+val_loss : 1.6196175352219613
+batch_size:40 learning_rate1e-05
+epochs : 12
+train_loss : 1.5877703119559117
+val_loss : 1.6228986209438694
+batch_size:40 learning_rate1e-05
+epochs : 13
+train_loss : 1.5833287082345362
+val_loss : 1.624284565448761
+batch_size:40 learning_rate1e-05
+epochs : 14
+train_loss : 1.5782067049072084
+val_loss : 1.6188845249914354
+batch_size:40 learning_rate1e-05
+epochs : 15
+train_loss : 1.5759061285224094
+val_loss : 1.616560418759623
+batch_size:40 learning_rate1e-05
+epochs : 16
+train_loss : 1.571002096293932
+val_loss : 1.6120658939884556
+batch_size:40 learning_rate1e-05
+epochs : 17
+train_loss : 1.56923567108899
+val_loss : 1.6180897258943128
+batch_size:40 learning_rate1e-05
+epochs : 18
+train_loss : 1.5687909995417195
+val_loss : 1.6172254739269134
+batch_size:40 learning_rate1e-05
+epochs : 19
+train_loss : 1.564068388179004
+val_loss : 1.6158622734008297
+batch_size:40 learning_rate1e-05
+epochs : 0
+train_loss : 1.601847098241398
+val_loss : 1.5949551773071289
+batch_size:50 learning_rate0.001
+epochs : 1
+train_loss : 1.5407368496282776
+val_loss : 1.608082687854767
+batch_size:50 learning_rate0.001
+epochs : 2
+train_loss : 1.539285673430903
+val_loss : 1.592382426261902
+batch_size:50 learning_rate0.001
+epochs : 3
+train_loss : 1.5359666661836615
+val_loss : 1.6796694231033324
+batch_size:50 learning_rate0.001
+epochs : 4
+train_loss : 1.5371241783028218
+val_loss : 1.596871666908264
+batch_size:50 learning_rate0.001
+epochs : 5
+train_loss : 1.5323194277227221
+val_loss : 1.5935722064971924
+batch_size:50 learning_rate0.001
+epochs : 6
+train_loss : 1.5388026095148344
+val_loss : 1.6076493430137635
+batch_size:50 learning_rate0.001
+epochs : 7
+train_loss : 1.5359941614207937
+val_loss : 1.5942030572891235
+batch_size:50 learning_rate0.001
+epochs : 8
+train_loss : 1.5351326768078022
+val_loss : 1.5919881796836852
+batch_size:50 learning_rate0.001
+epochs : 9
+train_loss : 1.5369085186156468
+val_loss : 1.604454698562622
+batch_size:50 learning_rate0.001
+epochs : 10
+train_loss : 1.5329844050146455
+val_loss : 1.5976223611831666
+batch_size:50 learning_rate0.001
+epochs : 11
+train_loss : 1.534318822533337
+val_loss : 1.5936469554901123
+batch_size:50 learning_rate0.001
+epochs : 12
+train_loss : 1.5331959641394923
+val_loss : 1.6012215042114257
+batch_size:50 learning_rate0.001
+epochs : 13
+train_loss : 1.5314643483849901
+val_loss : 1.5973545575141908
+batch_size:50 learning_rate0.001
+epochs : 14
+train_loss : 1.5382647152563826
+val_loss : 1.614174485206604
+batch_size:50 learning_rate0.001
+epochs : 15
+train_loss : 1.5340904454093667
+val_loss : 1.6032624006271363
+batch_size:50 learning_rate0.001
+epochs : 16
+train_loss : 1.531573994835811
+val_loss : 1.6484545946121216
+batch_size:50 learning_rate0.001
+epochs : 17
+train_loss : 1.53758846883157
+val_loss : 1.5914996433258057
+batch_size:50 learning_rate0.001
+epochs : 18
+train_loss : 1.541395400294024
+val_loss : 1.5988315677642821
+batch_size:50 learning_rate0.001
+epochs : 19
+train_loss : 1.5334597369331626
+val_loss : 1.5920745038986206
+batch_size:50 learning_rate0.001
+epochs : 0
+train_loss : 1.6646258641238236
+val_loss : 1.63982430934906
+batch_size:50 learning_rate0.0001
+epochs : 1
+train_loss : 1.5907979841849105
+val_loss : 1.6154878950119018
+batch_size:50 learning_rate0.0001
+epochs : 2
+train_loss : 1.5723826547167195
+val_loss : 1.6149119567871093
+batch_size:50 learning_rate0.0001
+epochs : 3
+train_loss : 1.561731457117185
+val_loss : 1.6121206045150758
+batch_size:50 learning_rate0.0001
+epochs : 4
+train_loss : 1.5561622191424394
+val_loss : 1.6099595546722412
+batch_size:50 learning_rate0.0001
+epochs : 5
+train_loss : 1.541839738390339
+val_loss : 1.5900035858154298
+batch_size:50 learning_rate0.0001
+epochs : 6
+train_loss : 1.5284267663955688
+val_loss : 1.5885009956359863
+batch_size:50 learning_rate0.0001
+epochs : 7
+train_loss : 1.5253498500852443
+val_loss : 1.5903860473632812
+batch_size:50 learning_rate0.0001
+epochs : 8
+train_loss : 1.5222954382350788
+val_loss : 1.5937797832489013
+batch_size:50 learning_rate0.0001
+epochs : 9
+train_loss : 1.5210152241721082
+val_loss : 1.586731605529785
+batch_size:50 learning_rate0.0001
+epochs : 10
+train_loss : 1.519434288366517
+val_loss : 1.584418625831604
+batch_size:50 learning_rate0.0001
+epochs : 11
+train_loss : 1.519164079457373
+val_loss : 1.5844456815719605
+batch_size:50 learning_rate0.0001
+epochs : 12
+train_loss : 1.5195349662458126
+val_loss : 1.5877183198928833
+batch_size:50 learning_rate0.0001
+epochs : 13
+train_loss : 1.5193702445101382
+val_loss : 1.5903754663467407
+batch_size:50 learning_rate0.0001
+epochs : 14
+train_loss : 1.5183374982568163
+val_loss : 1.5848259592056275
+batch_size:50 learning_rate0.0001
+epochs : 15
+train_loss : 1.5166068231288474
+val_loss : 1.587472538948059
+batch_size:50 learning_rate0.0001
+epochs : 16
+train_loss : 1.5162776240068883
+val_loss : 1.5909433078765869
+batch_size:50 learning_rate0.0001
+epochs : 17
+train_loss : 1.5155778061691207
+val_loss : 1.5929909133911133
+batch_size:50 learning_rate0.0001
+epochs : 18
+train_loss : 1.5152134480167978
+val_loss : 1.5896346616744994
+batch_size:50 learning_rate0.0001
+epochs : 19
+train_loss : 1.5121432299637676
+val_loss : 1.5857782554626465
+batch_size:50 learning_rate0.0001
+epochs : 0
+train_loss : 1.6202573367019197
+val_loss : 1.7653293895721436
+batch_size:50 learning_rate0.0005
+epochs : 1
+train_loss : 1.5463967317372411
+val_loss : 1.5931615495681763
+batch_size:50 learning_rate0.0005
+epochs : 2
+train_loss : 1.5313203465286178
+val_loss : 1.585391502380371
+batch_size:50 learning_rate0.0005
+epochs : 3
+train_loss : 1.5319038095758921
+val_loss : 1.589197735786438
+batch_size:50 learning_rate0.0005
+epochs : 4
+train_loss : 1.5308086433220858
+val_loss : 1.5894556713104249
+batch_size:50 learning_rate0.0005
+epochs : 5
+train_loss : 1.5321394904929013
+val_loss : 1.6024090242385864
+batch_size:50 learning_rate0.0005
+epochs : 6
+train_loss : 1.5271094296109025
+val_loss : 1.5941003608703612
+batch_size:50 learning_rate0.0005
+epochs : 7
+train_loss : 1.5257517099380493
+val_loss : 1.5851968431472778
+batch_size:50 learning_rate0.0005
+epochs : 8
+train_loss : 1.525397706980729
+val_loss : 1.5879506969451904
+batch_size:50 learning_rate0.0005
+epochs : 9
+train_loss : 1.52651368563448
+val_loss : 1.5866320419311524
+batch_size:50 learning_rate0.0005
+epochs : 10
+train_loss : 1.5279366264295815
+val_loss : 1.6021840262413025
+batch_size:50 learning_rate0.0005
+epochs : 11
+train_loss : 1.5242410684699443
+val_loss : 1.5887318992614745
+batch_size:50 learning_rate0.0005
+epochs : 12
+train_loss : 1.526109732205595
+val_loss : 1.5839186239242553
+batch_size:50 learning_rate0.0005
+epochs : 13
+train_loss : 1.523949020537571
+val_loss : 1.591673035621643
+batch_size:50 learning_rate0.0005
+epochs : 14
+train_loss : 1.5220782691566506
+val_loss : 1.5928926372528076
+batch_size:50 learning_rate0.0005
+epochs : 15
+train_loss : 1.5207047456532568
+val_loss : 1.5934886932373047
+batch_size:50 learning_rate0.0005
+epochs : 16
+train_loss : 1.5161932321330207
+val_loss : 1.5978938055038452
+batch_size:50 learning_rate0.0005
+epochs : 17
+train_loss : 1.519202667089244
+val_loss : 1.5907848906517028
+batch_size:50 learning_rate0.0005
+epochs : 18
+train_loss : 1.5166077536730032
+val_loss : 1.5923698234558106
+batch_size:50 learning_rate0.0005
+epochs : 19
+train_loss : 1.5169961695647358
+val_loss : 1.6025568962097168
+batch_size:50 learning_rate0.0005
+epochs : 0
+train_loss : 1.7429375553605568
+val_loss : 1.7258840036392211
+batch_size:50 learning_rate1e-05
+epochs : 1
+train_loss : 1.6903019491119764
+val_loss : 1.7274531936645507
+batch_size:50 learning_rate1e-05
+epochs : 2
+train_loss : 1.6834427183540306
+val_loss : 1.7108950757980346
+batch_size:50 learning_rate1e-05
+epochs : 3
+train_loss : 1.6734654298469203
+val_loss : 1.7018727922439576
+batch_size:50 learning_rate1e-05
+epochs : 4
+train_loss : 1.6655933204574964
+val_loss : 1.7039153957366944
+batch_size:50 learning_rate1e-05
+epochs : 5
+train_loss : 1.660360518379591
+val_loss : 1.6947198152542113
+batch_size:50 learning_rate1e-05
+epochs : 6
+train_loss : 1.6444823125108559
+val_loss : 1.6799953842163087
+batch_size:50 learning_rate1e-05
+epochs : 7
+train_loss : 1.622622347589749
+val_loss : 1.6594550013542175
+batch_size:50 learning_rate1e-05
+epochs : 8
+train_loss : 1.6063206676226944
+val_loss : 1.62916481256485
+batch_size:50 learning_rate1e-05
+epochs : 9
+train_loss : 1.6001762246611106
+val_loss : 1.6302307367324829
+batch_size:50 learning_rate1e-05
+epochs : 10
+train_loss : 1.5965966757257186
+val_loss : 1.6194933700561522
+batch_size:50 learning_rate1e-05
+epochs : 11
+train_loss : 1.5909523121753142
+val_loss : 1.6223929929733276
+batch_size:50 learning_rate1e-05
+epochs : 12
+train_loss : 1.5890793741045899
+val_loss : 1.6206950426101685
+batch_size:50 learning_rate1e-05
+epochs : 13
+train_loss : 1.584096908569336
+val_loss : 1.6128193044662475
+batch_size:50 learning_rate1e-05
+epochs : 14
+train_loss : 1.5812597013824614
+val_loss : 1.627452187538147
+batch_size:50 learning_rate1e-05
+epochs : 15
+train_loss : 1.580091286654496
+val_loss : 1.617442946434021
+batch_size:50 learning_rate1e-05
+epochs : 16
+train_loss : 1.5786732227648075
+val_loss : 1.6131754398345948
+batch_size:50 learning_rate1e-05
+epochs : 17
+train_loss : 1.5723561813582236
+val_loss : 1.6102799654006958
+batch_size:50 learning_rate1e-05
+epochs : 18
+train_loss : 1.5691396810522127
+val_loss : 1.6239643430709838
+batch_size:50 learning_rate1e-05
+epochs : 19
+train_loss : 1.5703396186306702
+val_loss : 1.6106392312049866
+batch_size:50 learning_rate1e-05
+epochs : 0
+train_loss : 1.6071121928220737
+val_loss : 1.6086947321891785
+batch_size:60 learning_rate0.001
+epochs : 1
+train_loss : 1.5421650995037512
+val_loss : 1.5908908665180206
+batch_size:60 learning_rate0.001
+epochs : 2
+train_loss : 1.5348878784807856
+val_loss : 1.5894903004169465
+batch_size:60 learning_rate0.001
+epochs : 3
+train_loss : 1.5333421494432553
+val_loss : 1.5858258247375487
+batch_size:60 learning_rate0.001
+epochs : 4
+train_loss : 1.5460452769330875
+val_loss : 1.5985349476337434
+batch_size:60 learning_rate0.001
+epochs : 5
+train_loss : 1.5395609904192165
+val_loss : 1.597600418329239
+batch_size:60 learning_rate0.001
+epochs : 6
+train_loss : 1.5396196299684262
+val_loss : 1.5798025667667388
+batch_size:60 learning_rate0.001
+epochs : 7
+train_loss : 1.5361999487448594
+val_loss : 1.5955519258975983
+batch_size:60 learning_rate0.001
+epochs : 8
+train_loss : 1.5330739535257487
+val_loss : 1.585335510969162
+batch_size:60 learning_rate0.001
+epochs : 9
+train_loss : 1.5339112781478974
+val_loss : 1.5835669875144958
+batch_size:60 learning_rate0.001
+epochs : 10
+train_loss : 1.5377744257807018
+val_loss : 1.5886062622070312
+batch_size:60 learning_rate0.001
+epochs : 11
+train_loss : 1.544093572450969
+val_loss : 1.6200787127017975
+batch_size:60 learning_rate0.001
+epochs : 12
+train_loss : 1.540363951357539
+val_loss : 1.5858424186706543
+batch_size:60 learning_rate0.001
+epochs : 13
+train_loss : 1.5371203222674523
+val_loss : 1.6008325606584548
+batch_size:60 learning_rate0.001
+epochs : 14
+train_loss : 1.535713641943332
+val_loss : 1.6030571937561036
+batch_size:60 learning_rate0.001
+epochs : 15
+train_loss : 1.5386758114763364
+val_loss : 1.6069037973880769
+batch_size:60 learning_rate0.001
+epochs : 16
+train_loss : 1.5339116693256858
+val_loss : 1.5913810759782792
+batch_size:60 learning_rate0.001
+epochs : 17
+train_loss : 1.5368929044929094
+val_loss : 1.620619335770607
+batch_size:60 learning_rate0.001
+epochs : 18
+train_loss : 1.5363518677785726
+val_loss : 1.6222733318805695
+batch_size:60 learning_rate0.001
+epochs : 19
+train_loss : 1.5468087396221961
+val_loss : 1.6008054912090302
+batch_size:60 learning_rate0.001
+epochs : 0
+train_loss : 1.6856709354651902
+val_loss : 1.689129251241684
+batch_size:60 learning_rate0.0001
+epochs : 1
+train_loss : 1.6027078185966628
+val_loss : 1.6141440272331238
+batch_size:60 learning_rate0.0001
+epochs : 2
+train_loss : 1.577947341039509
+val_loss : 1.6176275551319121
+batch_size:60 learning_rate0.0001
+epochs : 3
+train_loss : 1.5650230581888895
+val_loss : 1.615546816587448
+batch_size:60 learning_rate0.0001
+epochs : 4
+train_loss : 1.5637845043650644
+val_loss : 1.612454816699028
+batch_size:60 learning_rate0.0001
+epochs : 5
+train_loss : 1.5574538215191778
+val_loss : 1.6062593519687653
+batch_size:60 learning_rate0.0001
+epochs : 6
+train_loss : 1.5434016503259806
+val_loss : 1.5910285770893098
+batch_size:60 learning_rate0.0001
+epochs : 7
+train_loss : 1.5315492852719244
+val_loss : 1.5951841592788696
+batch_size:60 learning_rate0.0001
+epochs : 8
+train_loss : 1.526894133248015
+val_loss : 1.592526090145111
+batch_size:60 learning_rate0.0001
+epochs : 9
+train_loss : 1.5249298711022932
+val_loss : 1.5840502202510833
+batch_size:60 learning_rate0.0001
+epochs : 10
+train_loss : 1.5231683675400511
+val_loss : 1.5793626964092256
+batch_size:60 learning_rate0.0001
+epochs : 11
+train_loss : 1.5226694730941408
+val_loss : 1.5826230823993683
+batch_size:60 learning_rate0.0001
+epochs : 12
+train_loss : 1.5217706693146758
+val_loss : 1.5850387513637543
+batch_size:60 learning_rate0.0001
+epochs : 13
+train_loss : 1.5205194186307713
+val_loss : 1.5818932235240937
+batch_size:60 learning_rate0.0001
+epochs : 14
+train_loss : 1.5205120469281774
+val_loss : 1.5835053265094756
+batch_size:60 learning_rate0.0001
+epochs : 15
+train_loss : 1.5188061077437716
+val_loss : 1.589507782459259
+batch_size:60 learning_rate0.0001
+epochs : 16
+train_loss : 1.5190491819096184
+val_loss : 1.5864795297384262
+batch_size:60 learning_rate0.0001
+epochs : 17
+train_loss : 1.520149062493604
+val_loss : 1.586229920387268
+batch_size:60 learning_rate0.0001
+epochs : 18
+train_loss : 1.5160093157591221
+val_loss : 1.584375137090683
+batch_size:60 learning_rate0.0001
+epochs : 19
+train_loss : 1.5157992440069508
+val_loss : 1.5834439247846603
+batch_size:60 learning_rate0.0001
+epochs : 0
+train_loss : 1.620319092345095
+val_loss : 1.629748910665512
+batch_size:60 learning_rate0.0005
+epochs : 1
+train_loss : 1.5433199655509995
+val_loss : 1.589233261346817
+batch_size:60 learning_rate0.0005
+epochs : 2
+train_loss : 1.5330425429486942
+val_loss : 1.5850761115550995
+batch_size:60 learning_rate0.0005
+epochs : 3
+train_loss : 1.5335971024222004
+val_loss : 1.583187735080719
+batch_size:60 learning_rate0.0005
+epochs : 4
+train_loss : 1.529053024903029
+val_loss : 1.582141399383545
+batch_size:60 learning_rate0.0005
+epochs : 5
+train_loss : 1.5326219989867982
+val_loss : 1.5903520941734315
+batch_size:60 learning_rate0.0005
+epochs : 6
+train_loss : 1.529025041414592
+val_loss : 1.583430778980255
+batch_size:60 learning_rate0.0005
+epochs : 7
+train_loss : 1.5285819797458764
+val_loss : 1.5852904558181762
+batch_size:60 learning_rate0.0005
+epochs : 8
+train_loss : 1.526902446489848
+val_loss : 1.5820802569389343
+batch_size:60 learning_rate0.0005
+epochs : 9
+train_loss : 1.5263364657670437
+val_loss : 1.576813018321991
+batch_size:60 learning_rate0.0005
+epochs : 10
+train_loss : 1.5276244814524393
+val_loss : 1.588503584265709
+batch_size:60 learning_rate0.0005
+epochs : 11
+train_loss : 1.5251763288132445
+val_loss : 1.584401047229767
+batch_size:60 learning_rate0.0005
+epochs : 12
+train_loss : 1.521005928873302
+val_loss : 1.5882407665252685
+batch_size:60 learning_rate0.0005
+epochs : 13
+train_loss : 1.5218661245471703
+val_loss : 1.594116136431694
+batch_size:60 learning_rate0.0005
+epochs : 14
+train_loss : 1.5242785772163712
+val_loss : 1.587573492527008
+batch_size:60 learning_rate0.0005
+epochs : 15
+train_loss : 1.5211514641424853
+val_loss : 1.5850392490625382
+batch_size:60 learning_rate0.0005
+epochs : 16
+train_loss : 1.5216808640314434
+val_loss : 1.589528214931488
+batch_size:60 learning_rate0.0005
+epochs : 17
+train_loss : 1.5196036928428147
+val_loss : 1.589941257238388
+batch_size:60 learning_rate0.0005
+epochs : 18
+train_loss : 1.5170754372716664
+val_loss : 1.589188927412033
+batch_size:60 learning_rate0.0005
+epochs : 19
+train_loss : 1.5175669100470173
+val_loss : 1.6021112829446793
+batch_size:60 learning_rate0.0005
+epochs : 0
+train_loss : 1.7376509961967697
+val_loss : 1.734649395942688
+batch_size:60 learning_rate1e-05
+epochs : 1
+train_loss : 1.6989803942377695
+val_loss : 1.7228558480739593
+batch_size:60 learning_rate1e-05
+epochs : 2
+train_loss : 1.6909204421643012
+val_loss : 1.7081377923488616
+batch_size:60 learning_rate1e-05
+epochs : 3
+train_loss : 1.6839636421489144
+val_loss : 1.702490109205246
+batch_size:60 learning_rate1e-05
+epochs : 4
+train_loss : 1.6721687830850749
+val_loss : 1.7032510578632354
+batch_size:60 learning_rate1e-05
+epochs : 5
+train_loss : 1.6654080459457672
+val_loss : 1.6886161744594574
+batch_size:60 learning_rate1e-05
+epochs : 6
+train_loss : 1.6530353566129765
+val_loss : 1.678808343410492
+batch_size:60 learning_rate1e-05
+epochs : 7
+train_loss : 1.6317563156881731
+val_loss : 1.6546889275312424
+batch_size:60 learning_rate1e-05
+epochs : 8
+train_loss : 1.6158794264593523
+val_loss : 1.6332018315792083
+batch_size:60 learning_rate1e-05
+epochs : 9
+train_loss : 1.6073943769146581
+val_loss : 1.632337635755539
+batch_size:60 learning_rate1e-05
+epochs : 10
+train_loss : 1.606242527504881
+val_loss : 1.6192881405353545
+batch_size:60 learning_rate1e-05
+epochs : 11
+train_loss : 1.60169285857035
+val_loss : 1.6279981464147568
+batch_size:60 learning_rate1e-05
+epochs : 12
+train_loss : 1.5975649763724047
+val_loss : 1.6255507051944733
+batch_size:60 learning_rate1e-05
+epochs : 13
+train_loss : 1.5947936373556446
+val_loss : 1.6212075144052505
+batch_size:60 learning_rate1e-05
+epochs : 14
+train_loss : 1.5908047660382207
+val_loss : 1.6117653340101241
+batch_size:60 learning_rate1e-05
+epochs : 15
+train_loss : 1.5869622444678209
+val_loss : 1.6091078341007232
+batch_size:60 learning_rate1e-05
+epochs : 16
+train_loss : 1.585406182768816
+val_loss : 1.6107339292764664
+batch_size:60 learning_rate1e-05
+epochs : 17
+train_loss : 1.5846753955601218
+val_loss : 1.6159396588802337
+batch_size:60 learning_rate1e-05
+epochs : 18
+train_loss : 1.583506809737154
+val_loss : 1.617741161584854
+batch_size:60 learning_rate1e-05
+epochs : 19
+train_loss : 1.578833854127073
+val_loss : 1.6144926607608796
+batch_size:60 learning_rate1e-05
