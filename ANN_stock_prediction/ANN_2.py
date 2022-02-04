@@ -84,7 +84,9 @@ for epochs in range(num_epochs):
         loss.backward()
         optimizer.step()
         train_loss += loss.item()
-
+    
+    # in evaluation turn off batchNorm, Dropout
+    net.eval()
     with torch.no_grad():
         for j in range(batch_num_val):            
             start = j * batch_size

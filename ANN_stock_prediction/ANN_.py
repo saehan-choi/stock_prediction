@@ -86,7 +86,8 @@ for l in batch_arr:
                 loss.backward()
                 optimizer.step()
                 train_loss += loss.item()
-
+                
+            net.eval()
             with torch.no_grad():
                 for j in range(batch_num_val):            
                     start = j * batch_size
